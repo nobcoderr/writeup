@@ -1,0 +1,17 @@
+# Subdomain takeover #4 at info.hacker.one
+
+- Program: HackerOne
+- Weakness / temuan: **Privilege Escalation**
+- Severity: low
+- State: resolved
+- Bounty: $0.00
+- Upvotes: 50
+- Submitted: 2017-04-10
+- Disclosed: 2017-06-21
+- Report: https://hackerone.com/reports/220002
+
+## Temuan
+
+Privilege Escalation
+
+Public writeup body was not in the disclosed JSON; open the report link above.

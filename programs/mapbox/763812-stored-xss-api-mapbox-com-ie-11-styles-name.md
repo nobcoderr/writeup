@@ -1,0 +1,17 @@
+# Stored XSS | api.mapbox.com | IE 11 | Styles name
+
+- Program: Mapbox
+- Weakness / temuan: **Cross-site Scripting (XSS) - Stored**
+- Severity: medium
+- State: resolved
+- Bounty: $0.00
+- Upvotes: 67
+- Submitted: 2019-12-24
+- Disclosed: 2020-01-21
+- Report: https://hackerone.com/reports/763812
+
+## Temuan
+
+Cross-site Scripting (XSS) - Stored
+
+Public writeup body was not in the disclosed JSON; open the report link above.

@@ -1,0 +1,17 @@
+# [H1-2006 2020] I made the CEO's bounty payment!
+
+- Program: h1-ctf
+- Weakness / temuan: **[H1-2006 2020] I made the CEO's bounty payment!**
+- Severity: critical
+- State: resolved
+- Bounty: $0.00
+- Upvotes: 28
+- Submitted: 2020-05-31
+- Disclosed: 2020-06-18
+- Report: https://hackerone.com/reports/887816
+
+## Temuan
+
+[H1-2006 2020] I made the CEO's bounty payment!
+
+Public writeup body was not in the disclosed JSON; open the report link above.

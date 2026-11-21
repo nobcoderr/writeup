@@ -1,0 +1,52 @@
+# Improper input validation in emoji field leads to sidebar UI denial of service
+
+- Program: Nextcloud
+- Weakness / temuan: **Business Logic Errors**
+- Severity: low
+- State: resolved
+- Bounty: $0.00
+- Upvotes: 64
+- Submitted: 2026-03-12
+- Disclosed: 2026-09-20
+- Report: https://hackerone.com/reports/3599470
+- CVE: CVE-2026-77166
+
+## Team summary
+
+Security advisory at https://github.com/nextcloud/security-advisories/security/advisories/GHSA-4vpp-fp9q-9g23
+
+## Writeup
+
+## Summary:
+The emoji field in the page emoji update endpoint does not properly validate user input. An attacker can submit an excessively long string including newline characters instead of a valid emoji. By injecting long text and line breaks, the sidebar layout becomes broken. As a result, the malicious page icon overlaps other items in the sidebar, preventing users from clicking or accessing other pages.
+
+##Version: 
+==Collectives app: 4.0.0==
+
+## Steps To Reproduce:
+1. User A creates a page inside a collective.
+2. User A shares the page with User B and grants edit permission.
+3. User B sends the following request to update the page emoji:
+```
+PUT /ocs/v2.php/apps/collectives/api/v1.0/p/collectives/{collective_id}/pages/{page_id}/emoji
+Content-Type: application/json
+
+Example payload:
+
+{
+  "emoji": "👍aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+}
+```
+
+{F5516905}
+4. After the request is processed, open the collective sidebar.
+5. Observe that the emoji icon becomes extremely large due to the injected content, breaking the sidebar layout.
+6. The malformed icon overlaps other sidebar items, preventing users from clicking or accessing other pages.
+
+{F5516922}
+
+## Impact
+
+- An attacker with permission to modify a page emoji can inject long malformed input that breaks the sidebar layout. This may block access to other pages in the collective, effectively causing a UI-based denial of service for users trying to navigate the workspace.
+
+##VideoPoC: =={F5516939}==

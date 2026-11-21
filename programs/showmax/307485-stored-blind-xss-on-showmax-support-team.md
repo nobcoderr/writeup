@@ -1,0 +1,17 @@
+# Stored blind xss on showmax support team
+
+- Program: Showmax
+- Weakness / temuan: **Information Disclosure**
+- Severity: n/a
+- State: n/a
+- Bounty: $256.00
+- Upvotes: 21
+- Submitted: n/a
+- Disclosed: n/a
+- Report: https://hackerone.com/reports/307485
+
+## Temuan
+
+Information Disclosure
+
+Public writeup body was not in the disclosed JSON; open the report link above.

@@ -1,0 +1,17 @@
+# [XSS] Reflected XSS via POST request in (editJobAlert.htm) file
+
+- Program: Glassdoor
+- Weakness / temuan: **Cross-site Scripting (XSS) - Reflected**
+- Severity: n/a
+- State: n/a
+- Bounty: $0.00
+- Upvotes: 38
+- Submitted: n/a
+- Disclosed: n/a
+- Report: https://hackerone.com/reports/838910
+
+## Temuan
+
+Cross-site Scripting (XSS) - Reflected
+
+Public writeup body was not in the disclosed JSON; open the report link above.

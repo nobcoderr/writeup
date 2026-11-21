@@ -1,0 +1,17 @@
+# Requested and received edit access to Google form
+
+- Program: Uber
+- Weakness / temuan: **Information Disclosure**
+- Severity: n/a
+- State: resolved
+- Bounty: $0.00
+- Upvotes: 5
+- Submitted: 2016-04-13
+- Disclosed: 2016-07-26
+- Report: https://hackerone.com/reports/130440
+
+## Temuan
+
+Information Disclosure
+
+Public writeup body was not in the disclosed JSON; open the report link above.

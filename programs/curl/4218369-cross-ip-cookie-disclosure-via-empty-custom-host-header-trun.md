@@ -1,0 +1,17 @@
+# Cross-IP Cookie Disclosure via Empty Custom Host Header Truncation
+
+- Program: curl
+- Weakness / temuan: **Information Disclosure**
+- Severity: medium
+- State: not-applicable
+- Bounty: $0.00
+- Upvotes: 4
+- Submitted: 2026-11-19
+- Disclosed: 2026-11-20
+- Report: https://hackerone.com/reports/4218369
+- CVE: CVE-2026-6276
+- Asset type: SOURCE_CODE
+
+## Writeup
+
+libcurl may disclose cookies across distinct numerical IP origins when an HTTP request uses a malformed custom `Host: []` header and cookies are shared through a `CURLSH` cookie store. When a server at `127.0.0.1` responds to this request with a `Set-Cookie` header, the cookie is stored with an empty domain and may subsequently be sent to a different numerical IP address, such as `127.0.0.2`. This behavior was reproduced using two separate easy handles: the first handle received the cookie and was destroyed with `curl_easy_cleanup()`, while a newly initialized second handle sharing the same `CURLSH` sent the cookie to the different IP without configuring a custom Host header. A negative-control request to `localhost` did not receive the cookie, and the affected cookie was also absent from `CURLINFO_COOKIELIST` despite being transmitted over the network. The behavior was reproduced against curl commit `0a108352bf16e8dbd0e077c46fa3929681335a84`, which includes the fix for CVE-2026-6276. Researcher attribution: `dotlinux26`.

@@ -1,0 +1,17 @@
+# DNS Miconfiguration Leads to Subdomain Takeover  - max1.liveplan.com
+
+- Program: Palo Alto Software
+- Weakness / temuan: **Privilege Escalation**
+- Severity: high
+- State: resolved
+- Bounty: $0.00
+- Upvotes: 10
+- Submitted: 2021-08-07
+- Disclosed: 2021-09-08
+- Report: https://hackerone.com/reports/1294492
+
+## Temuan
+
+Privilege Escalation
+
+Public writeup body was not in the disclosed JSON; open the report link above.

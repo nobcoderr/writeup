@@ -1,0 +1,47 @@
+# Stored XSS on the public Pontoon dashboards: the latest-activity tooltip re-parses a contributor's account address as HTML
+
+- Program: Mozilla
+- Weakness / temuan: **Cross-site Scripting (XSS) - Stored**
+- Severity: high
+- State: resolved
+- Bounty: $3000.00
+- Upvotes: 61
+- Submitted: 2026-09-01
+- Disclosed: 2026-10-14
+- Report: https://hackerone.com/reports/3988961
+
+## Team summary
+
+## Summary
+
+Pontoon's latest-activity tooltip on its public dashboards built its markup by concatenating contributor-supplied `data-*` values into a string and handing it to jQuery's `.after()`. Only the translation text was encoded. The server escaped the values into the attributes, but the browser decodes attributes before jQuery reads them, so the markup came back raw.
+
+A contributor with no display name is shown by their account email address, and Pontoon's local signup accepted an address like `"<script>alert(document.domain)</script>x"@example.org`. One signup and one ordinary suggestion put that script on a public dashboard, where it ran in the session of anyone who hovered the cell, signed in or not. Before the report was filed it fired on `pontoon.allizom.org`, which was serving no Content-Security-Policy after a `django-csp` 4.0 upgrade dropped the policy.
+
+In a translator's session the script could approve the attacker's own suggestion, and in a locale manager's it could add the attacker to that locale's managers group, a membership that would outlive every session involved.
+
+Two changes closed the attack path on Mozilla's instance, and a third removed the sink:
+
+- [mozilla/pontoon#4482](https://github.com/mozilla/pontoon/pull/4482), 2026-09-02, removed the local signup route.
+- [mozilla/pontoon#4493](https://github.com/mozilla/pontoon/pull/4493), 2026-09-03, restored the CSP, which blocks the inline script.
+- [mozilla/pontoon#4583](https://github.com/mozilla/pontoon/pull/4583), 2026-10-08, builds the tooltip from DOM nodes. Released in `v2026.10.08`.
+
+Self-hosted Pontoon instances should be on `v2026.10.08` or later. Removing signup doesn't cover instances using other sign-in methods, which can still set the displayed name.
+
+## Researcher summary
+
+## Summary
+
+Pontoon's latest-activity tooltip on its public dashboards built its markup by concatenating contributor-supplied `data-*` values into a string and handing it to jQuery's `.after()`. Only the translation text was encoded. The server escaped the values into the attributes, but the browser decodes attributes before jQuery reads them, so the markup came back raw.
+
+A contributor with no display name is shown by their account email address, and Pontoon's local signup accepted an address like `"<script>alert(document.domain)</script>x"@example.org`. One signup and one ordinary suggestion put that script on a public dashboard, where it ran in the session of anyone who hovered the cell, signed in or not. Before the report was filed it fired on `pontoon.allizom.org`, which was serving no Content-Security-Policy after a `django-csp` 4.0 upgrade dropped the policy.
+
+In a translator's session the script could approve the attacker's own suggestion, and in a locale manager's it could add the attacker to that locale's managers group, a membership that would outlive every session involved.
+
+Two changes closed the attack path on Mozilla's instance, and a third removed the sink:
+
+- [mozilla/pontoon#4482](https://github.com/mozilla/pontoon/pull/4482), 2026-09-02, removed the local signup route.
+- [mozilla/pontoon#4493](https://github.com/mozilla/pontoon/pull/4493), 2026-09-03, restored the CSP, which blocks the inline script.
+- [mozilla/pontoon#4583](https://github.com/mozilla/pontoon/pull/4583), 2026-10-08, builds the tooltip from DOM nodes. Released in `v2026.10.08`.
+
+Self-hosted Pontoon instances should be on `v2026.10.08` or later. Removing signup doesn't cover instances using other sign-in methods, which can still set the displayed name.

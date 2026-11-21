@@ -1,0 +1,17 @@
+# Xss  Parameter: /<s>/[*]/<s>.css ████████
+
+- Program: U.S. Dept Of Defense
+- Weakness / temuan: **Cross-site Scripting (XSS) - Reflected**
+- Severity: medium
+- State: resolved
+- Bounty: $0.00
+- Upvotes: 36
+- Submitted: 2024-02-02
+- Disclosed: 2024-03-22
+- Report: https://hackerone.com/reports/2353131
+
+## Temuan
+
+Cross-site Scripting (XSS) - Reflected
+
+Public writeup body was not in the disclosed JSON; open the report link above.

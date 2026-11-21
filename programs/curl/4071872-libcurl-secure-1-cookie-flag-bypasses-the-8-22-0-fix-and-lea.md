@@ -1,0 +1,55 @@
+# libcurl: Secure=1 cookie flag bypasses the 8.22.0 fix and leaks over HTTP
+
+- Program: curl
+- Weakness / temuan: **Information Exposure Through Sent Data**
+- Severity: low
+- State: informative
+- Bounty: $0.00
+- Upvotes: 8
+- Submitted: 2026-09-30
+- Disclosed: 2026-10-06
+- Report: https://hackerone.com/reports/4071872
+- CVE: CVE-2026-80255
+
+## Writeup
+
+## Summary:
+
+An HTTPS server can send `Set-Cookie: session=lab; Secure=1; Path=/`, and curl stores it without the Secure flag, so a later HTTP request to the same host sends `session=lab` in cleartext. I reproduced this with 8.22.0 and master `bb348b35` (`8.23.0-DEV`); the ordinary `Secure` attribute stays protected. In `lib/cookie.c` lines 624-642, `=` sets `sep` and skips `parse_flag()` at line 642, which otherwise sets `co->secure` through lines 451-466. The 8.22.0 fix for CVE-2026-80255 handles a tab-prefixed `Secure` attribute, but this value-bearing form remains unprotected. `Secure=1` is noncanonical server syntax, but RFC 6265 section 5.2.5 recognizes `Secure` by attribute name regardless of its value.
+
+## Affected version
+
+Reproduced on curl/libcurl 8.22.0 and on master `bb348b35e84c40c9564783d7585762b65038e8c5` in Linux x86_64 Docker containers with OpenSSL. The attached Docker bundle builds the released version and reports:
+
+```text
+curl 8.22.0 (x86_64-pc-linux-gnu) libcurl/8.22.0 OpenSSL/3.0.22
+```
+
+The separate master build reports:
+
+```text
+curl 8.23.0-DEV (x86_64-pc-linux-gnu) libcurl/8.23.0-DEV OpenSSL/3.0.13 zlib/1.3 brotli/1.1.0 zstd/1.5.5 libidn2/2.3.7 libpsl/0.21.2 nghttp2/1.59.0 OpenLDAP/2.6.10
+```
+
+## Steps To Reproduce:
+
+1. Unpack the attached `curl-secure-cookie-poc-8.22.0.zip` and enter its directory.
+2. Build and run the image:
+
+```sh
+docker build -t curl-secure-cookie-poc .
+docker run --rm --network none --read-only --tmpfs /tmp:rw,exec curl-secure-cookie-poc
+```
+
+3. The script starts local HTTPS and HTTP servers, receives the cookie over HTTPS, and makes a later HTTP request to the same hostname using curl's saved cookie jar. Expected output:
+
+```text
+Secure: HTTP Cookie=None, jar Secure=TRUE
+Secure=1: HTTP Cookie='session=lab', jar Secure=FALSE
+```
+
+## Impact
+
+## Summary:
+
+If a service issues a session cookie using the noncanonical `Secure=1` syntax and a curl or libcurl client later visits the same host over HTTP, the client can send that cookie in cleartext for a network observer to capture. This requires both that server syntax and a subsequent HTTP request; the PoC uses only a synthetic cookie and local servers.

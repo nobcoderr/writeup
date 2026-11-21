@@ -1,0 +1,17 @@
+# Emails of invited collaborators are disclosed in full in payload for report participants
+
+- Program: HackerOne
+- Weakness / temuan: **Information Disclosure**
+- Severity: low
+- State: resolved
+- Bounty: $0.00
+- Upvotes: 112
+- Submitted: 2017-09-18
+- Disclosed: 2019-04-09
+- Report: https://hackerone.com/reports/269230
+
+## Temuan
+
+Information Disclosure
+
+Public writeup body was not in the disclosed JSON; open the report link above.

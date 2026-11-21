@@ -1,0 +1,17 @@
+# Worker container escape lead to arbitrary file reading in host machine
+
+- Program: Semmle
+- Weakness / temuan: **Privilege Escalation**
+- Severity: critical
+- State: resolved
+- Bounty: $2000.00
+- Upvotes: 112
+- Submitted: 2019-09-13
+- Disclosed: 2019-10-16
+- Report: https://hackerone.com/reports/694181
+
+## Temuan
+
+Privilege Escalation
+
+Public writeup body was not in the disclosed JSON; open the report link above.

@@ -1,0 +1,19 @@
+# ActionText `to_markdown` still allows `javascript:` links in kramdown via Rails-generated table cells after PR #58754
+
+- Program: Ruby on Rails
+- Weakness / temuan: **Cross-site Scripting (XSS) - Reflected**
+- Severity: medium
+- State: informative
+- Bounty: $0.00
+- Upvotes: 15
+- Submitted: 2026-10-03
+- Disclosed: 2026-10-10
+- Report: https://hackerone.com/reports/4082665
+
+## Team summary
+
+`ActionText::Content#to_markdown` writes the text of `<code>` and `<pre>` elements unescaped and relies on the code span delimiter to keep it inert. For code in a table cell that starts with two or more spaces or a tab, such as `<td><code>  [click](javascript:alert(1))</code></td>`, it emitted a code span delimited by two backticks. That Markdown is correct, and Commonmarker and Redcarpet render it as code. kramdown rebuilds the span with a single backtick when it splits the table row into cells, then fails to open it, and renders a `javascript:` link that `to_markdown` refuses to emit from an `<a>` element.
+
+We closed the report as Informative because the link comes from kramdown misparsing correct Markdown. We changed `to_markdown` in [rails/rails#58956](https://github.com/rails/rails/pull/58956) to strip leading and trailing whitespace from code spans in table cells, which avoids the kramdown behavior. `to_markdown` is not yet in any released version of Rails.
+
+Thanks to @deah313 for the report.

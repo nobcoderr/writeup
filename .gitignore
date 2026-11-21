@@ -1,5 +1,7 @@
 .idea/
 venv/
+__pycache__/
+*.pyc
 *.swp
 hackerone-reports/cache/
 hackerone-bug-bounty-reports/logs/

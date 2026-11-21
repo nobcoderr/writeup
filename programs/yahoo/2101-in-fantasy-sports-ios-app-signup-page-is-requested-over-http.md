@@ -1,0 +1,17 @@
+# In Fantasy Sports iOS app, signup page is requested over HTTP
+
+- Program: Yahoo!
+- Weakness / temuan: **Cryptographic Issues - Generic**
+- Severity: n/a
+- State: n/a
+- Bounty: $0.00
+- Upvotes: 4
+- Submitted: n/a
+- Disclosed: n/a
+- Report: https://hackerone.com/reports/2101
+
+## Temuan
+
+Cryptographic Issues - Generic
+
+Public writeup body was not in the disclosed JSON; open the report link above.

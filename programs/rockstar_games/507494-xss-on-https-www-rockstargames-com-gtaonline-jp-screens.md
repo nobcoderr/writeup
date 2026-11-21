@@ -1,0 +1,17 @@
+# xss on https://www.rockstargames.com/GTAOnline/jp/screens/ 
+
+- Program: Rockstar Games
+- Weakness / temuan: **Cross-site Scripting (XSS) - Generic**
+- Severity: medium
+- State: resolved
+- Bounty: $0.00
+- Upvotes: 159
+- Submitted: 2019-03-10
+- Disclosed: 2020-06-12
+- Report: https://hackerone.com/reports/507494
+
+## Temuan
+
+Cross-site Scripting (XSS) - Generic
+
+Public writeup body was not in the disclosed JSON; open the report link above.
