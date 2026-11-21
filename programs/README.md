@@ -2,7 +2,7 @@
 
 One folder per HackerOne program. Each disclosed report is a writeup file with the weakness/temuan, metadata, and public summary/writeup text.
 
-Updated (UTC): `2026-11-21T12:07:20Z`
+Updated (UTC): `2026-11-21T12:08:46Z`
 
 | Program | Reports | Folder |
 | --- | ---: | --- |

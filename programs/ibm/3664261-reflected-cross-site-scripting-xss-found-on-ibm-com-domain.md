@@ -10,8 +10,6 @@
 - Disclosed: 2026-06-15
 - Report: https://hackerone.com/reports/3664261
 
-## Temuan
+## Team summary
 
-Cross-site Scripting (XSS) - Reflected
-
-Public writeup body was not in the disclosed JSON; open the report link above.
+Reflected Cross-Site Scripting (XSS) found on IBM.com domain was reported to IBM, analyzed and has been remediated. Thank you to our external researcher @entrovyx.

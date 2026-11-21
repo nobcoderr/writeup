@@ -11,8 +11,18 @@
 - Report: https://hackerone.com/reports/3584078
 - Asset type: URL
 
-## Temuan
+## Writeup
 
-Information Exposure Through Directory Listing
+I discovered that the ████████ ████████ web server (████████) has directory listing enabled, exposing the entire file structure including database credentials, full website backups, and sensitive internal documents.
+https://████████/
+████████
+████████
 
-Public writeup body was not in the disclosed JSON; open the report link above.
+## Impact
+
+Database compromise - Working credentials grant full read/write access to ████████'s database containing customer PII
+Complete source code theft - 69MB backup file contains entire website code
+Customer data exposure - Uploads directory may contain sensitive user information
+Admin panel accessible - Attackers can target admin.php for brute force
+Business logic/IP theft - Internal documents and source code exposed
+Regulatory violations - GDPR/CCPA non-compliance due to exposed PII

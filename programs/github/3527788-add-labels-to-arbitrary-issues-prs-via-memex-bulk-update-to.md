@@ -11,8 +11,8 @@
 - Report: https://hackerone.com/reports/3527788
 - CVE: CVE-2026-3306
 
-## Temuan
+## Team summary
 
-Insecure Direct Object Reference (IDOR)
+An improper authorization vulnerability was identified in GitHub Enterprise Server that allowed a user with read access to a repository and write access to a project to modify issue and pull request metadata through the project. When adding an item to a project that already existed, column value updates were applied without verifying the actor's repository write permissions.
 
-Public writeup body was not in the disclosed JSON; open the report link above.
+[CVE-2026-3306](https://nvd.nist.gov/vuln/detail/CVE-2026-3306)

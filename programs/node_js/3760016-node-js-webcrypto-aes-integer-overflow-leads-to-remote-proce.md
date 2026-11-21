@@ -11,8 +11,8 @@
 - Report: https://hackerone.com/reports/3760016
 - CVE: CVE-2026-48933
 
-## Temuan
+## Team summary
 
-Integer Overflow
+A flaw in Node.js WebCrypto implementation can crash the process if the input of `subtle.encrypt()` is a multiple of 2GiB.
 
-Public writeup body was not in the disclosed JSON; open the report link above.
+This vulnerability affects all supported release lines: **Node.js 22**, **Node.js 24**, and **Node.js 26**.

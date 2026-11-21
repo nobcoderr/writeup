@@ -10,8 +10,14 @@
 - Disclosed: 2026-07-02
 - Report: https://hackerone.com/reports/3485343
 
-## Temuan
+## Team summary
 
-Path Traversal
+The jitsi-call-analytics backend contained a path traversal vulnerability in the `/api/v1/uploads/analyze` endpoint that allowed unauthenticated users to write files within the configured `RTCSTATS_DOWNLOADS_PATH` directory. The upload handler used user-controlled `file.originalname` directly in `path.join()` without sanitization, enabling attackers to include `../` sequences to escape the intended per-session UUID directory and write or overwrite files anywhere under the configured root path.
 
-Public writeup body was not in the disclosed JSON; open the report link above.
+Changes:
+* fix(security) Prevent path traversal in file upload handler.
+  * https://github.com/jitsi/jitsi-call-analytics/pull/56
+
+The fix has been deployed to production instances.
+
+We thank @r1skr1der for submitting this report to us.

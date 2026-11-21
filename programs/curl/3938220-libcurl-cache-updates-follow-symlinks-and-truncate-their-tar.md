@@ -10,8 +10,18 @@
 - Disclosed: 2026-08-14
 - Report: https://hackerone.com/reports/3938220
 
-## Temuan
+## Writeup
 
-Time-of-check Time-of-use (TOCTOU) Race Condition
+Summary: When curl updates an HSTS, Alt-Svc, or cookie cache, it opens the supplied path with "w" before validating it, so a symlink path can truncate the file it targets.
+Root cause: Curl_fopen() calls curlx_fopen(filename, "w") before checking the path or creating the safe temporary file, and fopen follows the symlink immediately.
+Steps to reproduce:
+(1) create other.txt containing DO NOT TRUNCATE; 
+(2) symlink hsts.txt to other.txt; 
+(3) run /tmp/curl-build2/src/curl --max-time 2 -s -o /dev/null --hsts hsts.txt http://127.0.0.1:1/ || true;
+(4) read other.txt and observe it is empty while the symlink path has been replaced by curl’s cache file.
 
-Public writeup body was not in the disclosed JSON; open the report link above.
+Suggested fix: Use lstat() before opening, reject symlinks or non-regular files, create the temporary file with exclusive no-follow flags, and write and rename only after validation
+
+## Impact
+
+A local user who can control the cache-path symlink can erase or alter the target file, and a failed cache update can also destroy an existing cache.

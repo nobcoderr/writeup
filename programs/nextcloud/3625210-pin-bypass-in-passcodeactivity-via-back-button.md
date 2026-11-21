@@ -11,8 +11,6 @@
 - Report: https://hackerone.com/reports/3625210
 - CVE: CVE-2026-45153
 
-## Temuan
+## Team summary
 
-Improper Authentication - Generic
-
-Public writeup body was not in the disclosed JSON; open the report link above.
+Secuerity advisory in https://github.com/nextcloud/security-advisories/security/advisories/GHSA-2w7v-5299-3hw5

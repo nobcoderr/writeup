@@ -11,8 +11,8 @@
 - Report: https://hackerone.com/reports/3618831
 - CVE: CVE-2026-48936
 
-## Temuan
+## Team summary
 
-Improper Access Control - Generic
+A flaw in Node.js Permission API can cause a local server to be started (via a Unix domain socket), even without the `--allow-net` permission.
 
-Public writeup body was not in the disclosed JSON; open the report link above.
+This vulnerability affects one supported release line: **Node.js 26**.

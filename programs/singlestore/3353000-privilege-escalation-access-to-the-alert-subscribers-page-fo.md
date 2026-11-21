@@ -10,8 +10,6 @@
 - Disclosed: 2026-07-01
 - Report: https://hackerone.com/reports/3353000
 
-## Temuan
+## Team summary
 
-Privilege Escalation
-
-Public writeup body was not in the disclosed JSON; open the report link above.
+A privilege escalation vulnerability in the SingleStore Helios alert management system allowed users with low privileges to access the Alert Subscribers API endpoint and retrieve email addresses and alert severity level preferences of notification subscribers, despite lacking authorization to view this information. This information disclosure posed a privacy risk and could potentially be leveraged for targeted phishing or social engineering attacks. The vulnerability was patched by restricting access to alert subscriber functionality to only authorized users with appropriate privileges.

@@ -10,8 +10,14 @@
 - Disclosed: 2026-07-20
 - Report: https://hackerone.com/reports/3738727
 
-## Temuan
+## Team summary
 
-Improper Access Control - Generic
+The `/get_alt_blocks_hashes` RPC endpoint was restricted to prevent unintended access to alternative block hashes. The endpoint had previously been unrestricted. The issue was assessed as low severity due to the limited impact and the availability of similar information through other mechanisms.
 
-Public writeup body was not in the disclosed JSON; open the report link above.
+## Researcher summary
+
+Monero's restricted RPC mode is designed to limit the information exposed to untrusted clients. The `get_info` endpoint correctly hides alternative block metadata by returning `alt_blocks_count` as `0`.
+
+However, the separate `get_alt_blocks_hashes` endpoint was not restricted in the same way and continued to return the list of alternative block hashes.
+
+This inconsistency allowed clients connected to the restricted RPC port to learn whether alternative blocks existed and retrieve their exact hashes.

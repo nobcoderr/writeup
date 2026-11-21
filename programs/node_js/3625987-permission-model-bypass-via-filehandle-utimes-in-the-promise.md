@@ -11,8 +11,8 @@
 - Report: https://hackerone.com/reports/3625987
 - CVE: CVE-2026-48935
 
-## Temuan
+## Team summary
 
-Incorrect Default Permissions
+A flaw in Node.js Permission API can cause a file metadata to be modified even on a path that was set as read-only with e.g. `--allow-fs-read`.
 
-Public writeup body was not in the disclosed JSON; open the report link above.
+This vulnerability affects all supported release lines: **Node.js 22**, **Node.js 24**, and **Node.js 26**.

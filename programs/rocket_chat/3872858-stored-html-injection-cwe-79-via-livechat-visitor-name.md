@@ -11,8 +11,6 @@
 - Report: https://hackerone.com/reports/3872858
 - CVE: CVE-2026-65644
 
-## Temuan
+## Team summary
 
-Cross-site Scripting (XSS) - DOM
-
-Public writeup body was not in the disclosed JSON; open the report link above.
+REST API endpoint POST /api/v1/livechat/visitor accepts an unauthenticated, unsanitized name field for Livechat visitors. This name is stored raw and later rendered via dangerouslySetInnerHTML in the Omnichannel Queue side panel (InquireSidePanelItem.tsx), injecting a real, clickable HTML link - pointing to any attacker-controlled domain, with arbitrary social-engineering text - into the DOM of any agent viewing the queue.

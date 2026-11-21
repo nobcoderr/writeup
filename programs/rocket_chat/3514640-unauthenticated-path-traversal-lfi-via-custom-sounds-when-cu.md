@@ -11,8 +11,6 @@
 - Report: https://hackerone.com/reports/3514640
 - CVE: CVE-2026-56845
 
-## Temuan
+## Team summary
 
-Path Traversal
-
-Public writeup body was not in the disclosed JSON; open the report link above.
+An unauthenticated path traversal (LFI) vulnerability exists under /custom-sounds/ when CustomSounds storage is configured to FileSystem. By including ../ sequences in the request path, an attacker can read arbitrary files outside the base directory.

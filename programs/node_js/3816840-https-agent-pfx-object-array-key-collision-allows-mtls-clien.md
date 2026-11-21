@@ -11,8 +11,8 @@
 - Report: https://hackerone.com/reports/3816840
 - CVE: CVE-2026-56850
 
-## Temuan
+## Team summary
 
-Improper Authentication - Generic
+A flaw in Node.js HTTPS Agent connection reuse can cause PFX object-array key collisions, allowing mutual TLS (mTLS) client identities to be reused across requests configured with different client certificates.
 
-Public writeup body was not in the disclosed JSON; open the report link above.
+This vulnerability affects Node.js **26.x**, **24.x**, and **22.x**.

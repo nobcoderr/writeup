@@ -11,8 +11,10 @@
 - Report: https://hackerone.com/reports/3838601
 - CVE: CVE-2026-56847
 
-## Temuan
+## Team summary
 
-Improper Access Control - Generic
+A flaw in Node.js Permission Model enforcement allows `trace_events.createTracing().enable()` Writes Trace Logs Outside `--allow-fs-write`.
 
-Public writeup body was not in the disclosed JSON; open the report link above.
+This can lead to confidentiality impact or bypass of the intended security boundary under affected configurations.
+
+This vulnerability affects Node.js **22.x**, **24.x**, and **26.x**.

@@ -11,8 +11,8 @@
 - Report: https://hackerone.com/reports/3658225
 - CVE: CVE-2026-48937
 
-## Temuan
+## Team summary
 
-Uncontrolled Resource Consumption
+A flaw in Node.js HTTP/2 server API can cause servers to keep accepting data even after sending a `GOAWAY` frame.
 
-Public writeup body was not in the disclosed JSON; open the report link above.
+This vulnerability affects two supported release lines: **Node.js 22** and **Node.js 24**.

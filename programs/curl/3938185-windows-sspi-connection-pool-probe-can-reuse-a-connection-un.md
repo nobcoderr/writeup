@@ -10,8 +10,21 @@
 - Disclosed: 2026-08-14
 - Report: https://hackerone.com/reports/3938185
 
-## Temuan
+## Writeup
 
-Authentication Bypass by Spoofing
+** Summary **: A fresh transfer can reuse a keep-alive connection authenticated under another Windows user because the SSPI isolation check trusts a connection ID that a health probe can set.
 
-Public writeup body was not in the disclosed JSON; open the report link above.
+**  Root cause **: Curl_cpool_conn_seems_healthy() calls Curl_attach_connection(), which sets data->state.recent_conn_id, while Curl_detach_connection() does not restore it before url_allow_sspi_empty_creds() checks that value.
+
+ **Steps to reproduce: **
+(1) build this checkout with temporary prints around Curl_cpool_prune_dead() and Curl_attach_connection(); 
+(2) run a local HTTP server returning 200 OK with Connection: keep-alive; 
+(3) request it with transfer A on a CURLM, then remove A but keep the multi handle; 
+(4) wait 1200 ms; 
+(5) request it with fresh transfer B and observe B rcid=-1, probe attach id=0, B rcid=0, then Reusing existing http.
+
+ ** Suggested fix **: Save and restore recent_conn_id around transient probes, or make Curl_attach_connection() skip that update for probes, then add a regression test
+
+## Impact
+
+B’s ID changes before B sends any bytes, so on Windows a connection negotiated under token A can carry B’s request as A and expose A-only data or perform an A-authorized action.

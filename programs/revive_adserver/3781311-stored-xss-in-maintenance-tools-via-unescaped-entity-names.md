@@ -11,8 +11,6 @@
 - Report: https://hackerone.com/reports/3781311
 - CVE: CVE-2026-50742
 
-## Temuan
+## Team summary
 
-Cross-site Scripting (XSS) - Stored
-
-Public writeup body was not in the disclosed JSON; open the report link above.
+HackerOne community member Althaf Shajahan (AnGrY) has reported stored XSS vulnerabilities in the `maintenance-acl-check.php` and `maintenance-banners-check.php` tools of Revive Adserver 6.0.7. The issue was caused by entity names being displayed without proper escaping when inconsistencies were detected. Whether the XSS payload is executed when an administrator uses the affected maintenance tools is not entirely under the attacker's control.

@@ -11,8 +11,6 @@
 - Report: https://hackerone.com/reports/3780854
 - CVE: CVE-2026-50741
 
-## Temuan
+## Team summary
 
-Code Injection
-
-Public writeup body was not in the disclosed JSON; open the report link above.
+HackerOne community member Rio Darmawan (riodrwn) and Mikhail Ilin (doomtech) have independently reported new vectors to bypass the fix for CVE-2026-34916. Variants of such vectors have been also reported by phucrio and offsetmd. The fix can be bypassed either by sending a disallowed but otherwise valid plugin identifier as `type`, or using the `ox.setChannelTargeting` XML-RPC API method.

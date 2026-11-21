@@ -10,8 +10,6 @@
 - Disclosed: 2026-07-01
 - Report: https://hackerone.com/reports/3353035
 
-## Temuan
+## Team summary
 
-Insecure Direct Object Reference (IDOR)
-
-Public writeup body was not in the disclosed JSON; open the report link above.
+An IDOR vulnerability in the SingleStore backend API allowed low-privileged users to delete folders belonging to other users within the same organization by manipulating the folder_id parameter in DELETE requests to /public/notebooks/api/contents/<id>/_internal-s2-stage/folder_id/folder_name/ on backend.singlestore.com, bypassing authorization checks that should have verified folder ownership. The vulnerability (CWE-639) was rated CVSS 3.0 Low (3.8) due to high attack complexity requiring knowledge of two UUIDs, reported September 22, 2025, triaged October 2, 2025, and successfully patched by SingleStore on April 21, 2026.

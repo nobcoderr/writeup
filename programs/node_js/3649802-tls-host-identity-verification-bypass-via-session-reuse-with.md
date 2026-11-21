@@ -11,8 +11,8 @@
 - Report: https://hackerone.com/reports/3649802
 - CVE: CVE-2026-48934
 
-## Temuan
+## Team summary
 
-Exploiting Incorrectly Configured SSL/TLS
+A flaw in Node.js TLS host verification can cause an attacker to bypass certification validation.
 
-Public writeup body was not in the disclosed JSON; open the report link above.
+This vulnerability affects all supported release lines: **Node.js 22**, **Node.js 24**, and **Node.js 26**.

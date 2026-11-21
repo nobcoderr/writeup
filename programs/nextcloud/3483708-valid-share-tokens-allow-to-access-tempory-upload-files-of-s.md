@@ -11,8 +11,6 @@
 - Report: https://hackerone.com/reports/3483708
 - CVE: CVE-2026-45157
 
-## Temuan
+## Team summary
 
-Improper Access Control - Generic
-
-Public writeup body was not in the disclosed JSON; open the report link above.
+Security advisory in https://github.com/nextcloud/security-advisories/security/advisories/GHSA-45pj-p7x7-4mhc

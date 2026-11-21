@@ -11,8 +11,8 @@
 - Report: https://hackerone.com/reports/3582376
 - CVE: CVE-2026-48931
 
-## Temuan
+## Team summary
 
-Time-of-check Time-of-use (TOCTOU) Race Condition
+A flaw in Node.js HTTP Agent can cause a client to accept as valid a response that is send before the client has sent the request.
 
-Public writeup body was not in the disclosed JSON; open the report link above.
+This vulnerability affects all supported release lines: **Node.js 22**, **Node.js 24**, and **Node.js 26**.

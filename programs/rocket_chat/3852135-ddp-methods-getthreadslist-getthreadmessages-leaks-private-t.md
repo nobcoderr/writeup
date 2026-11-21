@@ -11,8 +11,7 @@
 - Report: https://hackerone.com/reports/3852135
 - CVE: CVE-2026-65645
 
-## Temuan
+## Team summary
 
-NoSQL Injection
-
-Public writeup body was not in the disclosed JSON; open the report link above.
+The Meteor DDP methods getThreadsList and getThreadMessages accept rid / tmid as raw, untyped parameters with no schema validation. A MongoDB operator object (e.g. {"$gt": "4"}) can be substituted for a string room-id or message-id. The authorization check resolves to a room the attacker already has access to, while the downstream data query fans out across all rooms - disclosing private thread parents and their full reply content to any low-privilege authenticated user.
+The REST route chat.getThreadsList was patched in v5.0 (HackerOne report #1446767) by adding rid: {type:'string'} AJV validation. The equivalent DDP method was never given the same fix and remains exploitable

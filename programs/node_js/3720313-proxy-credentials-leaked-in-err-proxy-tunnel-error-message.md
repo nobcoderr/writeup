@@ -11,8 +11,10 @@
 - Report: https://hackerone.com/reports/3720313
 - CVE: CVE-2026-48615
 
-## Temuan
+## Team summary
 
-Privacy Violation
+A flaw in Node.js proxy tunnel error handling could expose proxy credentials in `ERR_PROXY_TUNNEL` error messages.
 
-Public writeup body was not in the disclosed JSON; open the report link above.
+When proxy credentials are embedded in the proxy URL, they may be exposed through error handling paths and captured by logs, diagnostics, or other error consumers.
+
+This vulnerability affects all supported release lines: **Node.js 22**, **Node.js 24**, and **Node.js 26**.

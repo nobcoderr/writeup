@@ -10,8 +10,19 @@
 - Disclosed: 2026-06-10
 - Report: https://hackerone.com/reports/3791168
 
-## Temuan
+## Writeup
 
-Server-Side Request Forgery (SSRF)
+## Summary:
+[six or fewer sentences describing the issue in your own human voice and optionally a short proof-of-concept script]
 
-Public writeup body was not in the disclosed JSON; open the report link above.
+## Affected version
+[Which curl/libcurl version are you using to reproduce? On which platform? `curl -V` typically generates good output to include]
+
+## Steps To Reproduce:
+[add details for how we can reproduce the issue]
+
+## Again: there is no bug-bounty for curl. We do not offer any rewards, only proper credits.
+
+## Impact
+
+## Summary:

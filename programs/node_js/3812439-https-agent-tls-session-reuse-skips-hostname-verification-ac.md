@@ -11,8 +11,8 @@
 - Report: https://hackerone.com/reports/3812439
 - CVE: CVE-2026-58040
 
-## Temuan
+## Team summary
 
-Exploiting Incorrectly Configured SSL/TLS
+An incomplete fix has been identified in Node.js: HTTPS Agent TLS session reuse skips hostname verification across identity policies (incomplete fix of CVE-2026-48934).
 
-Public writeup body was not in the disclosed JSON; open the report link above.
+This vulnerability affects Node.js **22.x**, **24.x**, and **26.x**.

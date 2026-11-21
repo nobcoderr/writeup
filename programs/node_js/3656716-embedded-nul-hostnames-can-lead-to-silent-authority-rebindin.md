@@ -11,8 +11,8 @@
 - Report: https://hackerone.com/reports/3656716
 - CVE: CVE-2026-48930
 
-## Temuan
+## Team summary
 
-Improper Access Control - Generic
+A flaw in Node.js TLS hostname handling can cause Embedded-nul hostnames can lead to silent authority rebinding due to c-string truncation in resolver bindings.
 
-Public writeup body was not in the disclosed JSON; open the report link above.
+This vulnerability affects all supported release lines: **Node.js 22**, **Node.js 24**, and **Node.js 26**.

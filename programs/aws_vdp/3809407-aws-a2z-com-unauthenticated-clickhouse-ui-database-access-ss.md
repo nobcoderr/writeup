@@ -10,8 +10,6 @@
 - Disclosed: 2026-07-22
 - Report: https://hackerone.com/reports/3809407
 
-## Temuan
+## Team summary
 
-Authentication Bypass
-
-Public writeup body was not in the disclosed JSON; open the report link above.
+We would like to thank @notnotnotveg for reporting this issue to AWS VDP and collaborating with us on this disclosure.

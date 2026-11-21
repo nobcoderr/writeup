@@ -11,8 +11,10 @@
 - Report: https://hackerone.com/reports/3688064
 - CVE: CVE-2026-48618
 
-## Temuan
+## Team summary
 
-Improper Handling of Unicode Encoding
+A flaw in Node.js TLS hostname handling can cause Node.js unicode dot separator handling can lead to tls wildcard-depth authentication bypass due to resolver and verifier hostname normalization mismat.
 
-Public writeup body was not in the disclosed JSON; open the report link above.
+This can lead to confidentiality impact or bypass of the intended security boundary under affected configurations.
+
+This vulnerability affects all supported release lines: **Node.js 22**, **Node.js 24**, and **Node.js 26**.

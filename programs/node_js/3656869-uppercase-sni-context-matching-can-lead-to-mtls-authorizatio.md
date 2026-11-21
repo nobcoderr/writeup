@@ -11,8 +11,8 @@
 - Report: https://hackerone.com/reports/3656869
 - CVE: CVE-2026-48928
 
-## Temuan
+## Team summary
 
-Improper Access Control - Generic
+A inconsistency in Node.js hostname matching can cause a trust-policy bypass in multi-context mTLS setups.
 
-Public writeup body was not in the disclosed JSON; open the report link above.
+This vulnerability affects all supported release lines: **Node.js 22**, **Node.js 24**, and **Node.js 26**.

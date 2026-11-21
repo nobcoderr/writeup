@@ -11,8 +11,6 @@
 - Report: https://hackerone.com/reports/3781691
 - CVE: CVE-2026-50743
 
-## Temuan
+## Team summary
 
-Cross-Site Request Forgery (CSRF)
-
-Public writeup body was not in the disclosed JSON; open the report link above.
+HackerOne community member Althaf Shajahan (AnGrY) has reported that the `zone-include.php` script in Revive Adserver 6.0.7 was vulnerable to a CSRF attack. Linking and unlinking banners or campaigns to zones could be triggered via crafted GET or POST requests without any verification of the CSRF token, allowing an attacker to perform these actions on behalf of an authenticated administrator.

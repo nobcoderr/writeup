@@ -11,8 +11,6 @@
 - Report: https://hackerone.com/reports/3793243
 - CVE: CVE-2026-50745
 
-## Temuan
+## Team summary
 
-Cross-site Scripting (XSS) - Reflected
-
-Public writeup body was not in the disclosed JSON; open the report link above.
+HackerOne community member Mahmoud Khaled (Kanon4) has reported a missing sanitisation of user input in the stats-video.php script. The way URLs to this script were constructed did not follow best practices, and the output of the Smarty custom helper function url was neither properly encoded nor sanitised, allowing user‑supplied input to be reflected without escaping.

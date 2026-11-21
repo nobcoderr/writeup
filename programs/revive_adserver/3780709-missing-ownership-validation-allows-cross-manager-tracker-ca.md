@@ -11,8 +11,6 @@
 - Report: https://hackerone.com/reports/3780709
 - CVE: CVE-2026-50739, CVE-2026-34913
 
-## Temuan
+## Team summary
 
-Insecure Direct Object Reference (IDOR)
-
-Public writeup body was not in the disclosed JSON; open the report link above.
+HackerOne community member hakuopi (and independently sy2no, garuthacktvist, and aszh) has reported a bypass of the fix for CVE‑2026‑34913. Proper ownership validation had not been applied to the reverse operation of linking campaigns and trackers through the `tracker-campaigns.php` script in Revive Adserver 6.0.7 and earlier. As a result, a low‑privileged user could link their trackers to campaigns owned by other managers on the same instance, leading to inconsistent ownership relationships.

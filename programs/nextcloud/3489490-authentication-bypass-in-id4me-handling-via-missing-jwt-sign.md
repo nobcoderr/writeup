@@ -11,8 +11,6 @@
 - Report: https://hackerone.com/reports/3489490
 - CVE: CVE-2026-45156
 
-## Temuan
+## Team summary
 
-Improper Authentication - Generic
-
-Public writeup body was not in the disclosed JSON; open the report link above.
+Security advisory in https://github.com/nextcloud/security-advisories/security/advisories/GHSA-qqgv-fqwp-mjpp

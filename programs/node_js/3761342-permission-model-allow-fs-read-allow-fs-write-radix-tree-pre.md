@@ -11,8 +11,10 @@
 - Report: https://hackerone.com/reports/3761342
 - CVE: CVE-2026-58043
 
-## Temuan
+## Team summary
 
-Improper Access Control - Generic
+A flaw in Node.js Permission Model enforcement can over-grant filesystem access across radix-tree prefix boundaries.
 
-Public writeup body was not in the disclosed JSON; open the report link above.
+Under `--permission`, an attacker who is granted access to one path can abuse boundary handling to read from or write to paths outside the intended filesystem allowlist.
+
+This vulnerability affects Node.js **main**, **22.x**, **24.x**, and **26.x**.

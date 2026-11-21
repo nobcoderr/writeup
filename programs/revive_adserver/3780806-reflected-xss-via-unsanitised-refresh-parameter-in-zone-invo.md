@@ -11,8 +11,6 @@
 - Report: https://hackerone.com/reports/3780806
 - CVE: CVE-2026-50740
 
-## Temuan
+## Team summary
 
-Cross-site Scripting (XSS) - Reflected
-
-Public writeup body was not in the disclosed JSON; open the report link above.
+HackerOne community member Mahmoud Khaled (Kanon4) has reported a missing sanitisation of user input in the zone-include.php script of Revive Adserver 6.0.7 and earlier. A low‑privileged user could exploit the refresh parameter of the iFrame invocation tag to perform reflected XSS attacks.

@@ -11,8 +11,6 @@
 - Report: https://hackerone.com/reports/3611837
 - CVE: CVE-2026-48929
 
-## Temuan
+## Team summary
 
-Improper Authentication - Generic
-
-Public writeup body was not in the disclosed JSON; open the report link above.
+The deleteFileMessage Meteor method permanently deletes any uploaded file by ID without requiring authentication. When called via an unauthenticated DDP WebSocket connection, Meteor.userId() returns null, causing the authorization check to be skipped. Execution falls through to FileUpload.getStore('Uploads').deleteById(fileID), which removes the file from storage and database unconditionally. File IDs are discoverable from public channel message payloads and download URLs.

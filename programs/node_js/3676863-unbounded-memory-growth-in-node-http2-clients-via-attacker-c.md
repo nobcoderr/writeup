@@ -11,8 +11,8 @@
 - Report: https://hackerone.com/reports/3676863
 - CVE: CVE-2026-48619
 
-## Temuan
+## Team summary
 
-Uncontrolled Resource Consumption
+A flaw in Node.js HTTP/2 client allows a server to send an unlimited number of ORIGIN frames, which could lead to an Out of Memory error on the client.
 
-Public writeup body was not in the disclosed JSON; open the report link above.
+This vulnerability affects all supported release lines: **Node.js 22**, **Node.js 24**, and **Node.js 26**.
