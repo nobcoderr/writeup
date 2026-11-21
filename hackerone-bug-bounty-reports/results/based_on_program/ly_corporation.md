@@ -1,0 +1,47 @@
+## Reports in LY Corporation program:
+
+| S.No | Title | Bounty |
+| ---- | ----- | ------ |
+| 1 | [Spring Actuator endpoints publicly available and broken authentication](https://hackerone.com/reports/838635) | $12500.0 |
+| 2 | [Arbitrary Code Execution via npm misconfiguration – installing internal libraries from the public registry](https://hackerone.com/reports/1043385) | $11500.0 |
+| 3 | [Spring Actuator endpoints publicly available, leading to account takeover](https://hackerone.com/reports/862589) | $5000.0 |
+| 4 | [SSRF on music.line.me through getXML.php](https://hackerone.com/reports/746024) | $4500.0 |
+| 5 | [LINE Profile ID leaks in OpenChat](https://hackerone.com/reports/927338) | $3000.0 |
+| 6 | [Missing authentication in buddy group API of LINE TIMELINE](https://hackerone.com/reports/1283938) | $3000.0 |
+| 7 | [Improper authorization allows disclosing users' notification data in Notification channel server](https://hackerone.com/reports/1314162) | $2000.0 |
+| 8 | [Reflected XSS in OAUTH2 login flow ](https://hackerone.com/reports/697099) | $1989.5 |
+| 9 | [Get-based SSRF limited to HTTP protocol on https://resizer.line-apps.com/form](https://hackerone.com/reports/707014) | $1350.0 |
+| 10 | [Improper Access Control in LINE Timeline API that returns a list of hidden friends](https://hackerone.com/reports/853894) | $1346.85 |
+| 11 | [page.line.me Open Redirect Leading to OAuth Authorization Code Exposure and Access Token Compromise](https://hackerone.com/reports/3423013) | $1000.0 |
+| 12 | [File sizes may be manipulated into negative numbers when uploading](https://hackerone.com/reports/1068301) | $500.0 |
+| 13 | [Webview in LINE client for iOS will render application/octet-stream files as HTML](https://hackerone.com/reports/988332) | $500.0 |
+| 14 | [Path traversal in ZIP extract routine on LINE Android](https://hackerone.com/reports/859469) | $475.0 |
+| 15 | [iOS group chat denial of service](https://hackerone.com/reports/1701642) | $300.0 |
+| 16 | [Stored XSS via SVG Upload in chat.line.biz](https://hackerone.com/reports/3008878) | $100.0 |
+| 17 | [Reflected XSS on https://travel.line.me](https://hackerone.com/reports/1880607) | $100.0 |
+| 18 | [Blind SSRF in social-plugins.line.me](https://hackerone.com/reports/833758) | $100.0 |
+| 19 | [Stored XSS Via Filename On https://partners.line.me/](https://hackerone.com/reports/1639919) | $100.0 |
+| 20 | [SSRF occurrence in website preview used by LINE Official Account Manager (https://manager.line.biz)](https://hackerone.com/reports/1131608) | $100.0 |
+| 21 | [Request smuggling on admin-official.line.me could lead to account takeover](https://hackerone.com/reports/740037) | $0 |
+| 22 | [Able to Become Admin for Any LINE Official Account](https://hackerone.com/reports/698579) | $0 |
+| 23 | [Path traversal in filename in LINE Mac client](https://hackerone.com/reports/727727) | $0 |
+| 24 | [DOM-based XSS on mobile.line.me](https://hackerone.com/reports/736272) | $0 |
+| 25 | [Insufficient access control on all BCRM instances leading to the ability to create admin accounts using the API](https://hackerone.com/reports/836081) | $0 |
+| 26 | [CORS misconfiguration leads to users information disclosure at https://studyroom.line.me](https://hackerone.com/reports/924951) | $0 |
+| 27 | [Client-Side Path Traversal on LINE Developers Console](https://hackerone.com/reports/2473862) | $0 |
+| 28 | [Missing ownership check in 2FA for secondary client login](https://hackerone.com/reports/1250474) | $0 |
+| 29 | [Path traversal in a Tomcat server](https://hackerone.com/reports/988877) | $0 |
+| 30 | [Webview address bar spoofing in LINE client for iOS](https://hackerone.com/reports/1082991) | $0 |
+| 31 | [See drafts and post articles if the account owner hasn't set password (livedoor CMS plugin)](https://hackerone.com/reports/1278881) | $0 |
+| 32 | [Reflected XSS in OAUTH2 login flow (https://access.line.me)](https://hackerone.com/reports/1167272) | $0 |
+| 33 | [Bot setting information leakage in OpenChat room](https://hackerone.com/reports/1305432) | $0 |
+| 34 | [Debugging panel exposure](https://hackerone.com/reports/986679) | $0 |
+| 35 | [Developer uploaded files missing authentication on LINE GAME Developers site(gdc.game.line.me)](https://hackerone.com/reports/969605) | $0 |
+| 36 | [XSS on LINE CAREERS](https://hackerone.com/reports/2403554) | $0 |
+| 37 | [DoS of LINE client for Android via message containing multiple unicode characters (0x0e & 0x0f)](https://hackerone.com/reports/1058383) | $0 |
+| 38 | [Password reset by malicious input on air.line.me](https://hackerone.com/reports/968742) | $0 |
+| 39 | [Use of unreleased features in programming education service (https://entry.line.me)](https://hackerone.com/reports/975428) | $0 |
+| 40 | [Access to images and videos in drafts on LINE BLOG](https://hackerone.com/reports/1290170) | $0 |
+| 41 | [Deleting someone else's profile image with a GraphQL query in programming education service (https://entry.line.me)](https://hackerone.com/reports/952095) | $0 |
+| 42 | [SSRF restricted to HTTP/HTML on LINE Social Plugins (https://social-plugins.line.me/)](https://hackerone.com/reports/860939) | $0 |
+| 43 | [Theft of arbitrary files in LINE Lite client for Android](https://hackerone.com/reports/1094702) | $0 |

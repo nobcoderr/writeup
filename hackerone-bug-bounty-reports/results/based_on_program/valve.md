@@ -1,0 +1,86 @@
+## Reports in Valve program:
+
+| S.No | Title | Bounty |
+| ---- | ----- | ------ |
+| 1 | [SQL Injection in report_xml.php through countryFilter[] parameter](https://hackerone.com/reports/383127) | $25000.0 |
+| 2 | [Getting all the CD keys of any game](https://hackerone.com/reports/391217) | $20000.0 |
+| 3 | [Malformed NAV file leads to buffer overflow and code execution in Left4Dead2.exe](https://hackerone.com/reports/542180) | $10000.0 |
+| 4 | [RCE on CS:GO client using unsanitized entity ID in EntityMsg message](https://hackerone.com/reports/584603) | $9000.0 |
+| 5 | [XSS in steam react chat client](https://hackerone.com/reports/409850) | $7500.0 |
+| 6 | [Modify in-flight data to payment provider Smart2Pay](https://hackerone.com/reports/1295844) | $7500.0 |
+| 7 | [OOB reads in network message handlers leads to RCE](https://hackerone.com/reports/807772) | $7500.0 |
+| 8 | [Buffer overrun in Steam SILK voice decoder](https://hackerone.com/reports/1180252) | $7500.0 |
+| 9 | [Specially Crafted Closed Captions File can lead to Remote Code Execution in CS:GO and other Source Games](https://hackerone.com/reports/463286) | $7500.0 |
+| 10 | [CS:GO Server -> Client RCE through OOB access in CSVCMsg_SplitScreen + Info leak in HTTP download](https://hackerone.com/reports/1070835) | $7500.0 |
+| 11 | [Signedness issue in ClassInfo message handler leads to RCE on CS:GO client](https://hackerone.com/reports/876719) | $7500.0 |
+| 12 | [[Portal 2] Remote Code Execution via voice packets](https://hackerone.com/reports/733267) | $5000.0 |
+| 13 | [Unchecked weapon id in WeaponList message parser on client leads to RCE](https://hackerone.com/reports/513154) | $3000.0 |
+| 14 | [GoldSrc: Buffer Overflow in DELTA_ParseDelta function leads to RCE](https://hackerone.com/reports/484745) | $3000.0 |
+| 15 | [[help.steampowered.com] Account takeover bruteforcing SteamGuard](https://hackerone.com/reports/407971) | $2500.0 |
+| 16 | [[Source Engine] Material path truncation leads to Remote Code Execution](https://hackerone.com/reports/544096) | $2500.0 |
+| 17 | [[CS:GO] Unchecked texture file name with TEXTUREFLAGS_DEPTHRENDERTARGET can lead to Remote Code Execution](https://hackerone.com/reports/550625) | $2500.0 |
+| 18 | [[Half-Life 1] Malformed map name leads to memory corruption and code execution](https://hackerone.com/reports/402566) | $1500.0 |
+| 19 | [Malformed save files (.sav) allow to write files with arbitrary extensions and content in GoldSrc-based games.](https://hackerone.com/reports/458842) | $1500.0 |
+| 20 | [Arbitrary File Write as SYSTEM from unprivileged user](https://hackerone.com/reports/583184) | $1250.0 |
+| 21 | [Arbitrary file creation with semi-controlled content (leads to DoS, EoP and others) at Steam Windows Client](https://hackerone.com/reports/682774) | $1250.0 |
+| 22 | [Malformed playlist.txt in GoldSrc games leads to Access Violation & arbitrary code execution](https://hackerone.com/reports/504951) | $1000.0 |
+| 23 | [Xss was found by exploiting the URL markdown on http://store.steampowered.com](https://hackerone.com/reports/313250) | $1000.0 |
+| 24 | [unlock self-lock by brute force ](https://hackerone.com/reports/410221) | $900.0 |
+| 25 | [[steam client] Opening a specific steam:// url overwrites files at an arbitrary location](https://hackerone.com/reports/667242) | $750.0 |
+| 26 | [Stored XXS @ https://steamcommunity.com/search/users/#text= via Profile Name](https://hackerone.com/reports/351171) | $750.0 |
+| 27 | [Stored XSS in the guide's GameplayVersion (www.dota2.com)](https://hackerone.com/reports/380045) | $750.0 |
+| 28 | [code injection, steam chat client](https://hackerone.com/reports/411329) | $750.0 |
+| 29 | [GetReports works for hubs you don't have access to](https://hackerone.com/reports/350937) | $750.0 |
+| 30 | [[CS 1.6] Map cycle abuse allows arbitrary file read/write](https://hackerone.com/reports/590279) | $750.0 |
+| 31 | [resetreportedcount & updatetags doesn't verify appid param](https://hackerone.com/reports/351106) | $750.0 |
+| 32 | [Steam Deck Single Click Root Remote Code Execution ](https://hackerone.com/reports/1974296) | $750.0 |
+| 33 | [XSS @ store.steampowered.com via agecheck path name](https://hackerone.com/reports/406704) | $750.0 |
+| 34 | [ajaxgetachievementsforgame is not guarded for unreleased apps](https://hackerone.com/reports/835087) | $750.0 |
+| 35 | [[GoldSrc] Remote Code Execution using malicious WAD list in BSP file](https://hackerone.com/reports/675710) | $750.0 |
+| 36 | [Read Access to all comments on unauthorized forums' discussions! IDOR! ](https://hackerone.com/reports/308610) | $500.0 |
+| 37 | [Deleting other people's comments on ModeratorMessages](https://hackerone.com/reports/357952) | $500.0 |
+| 38 | [Suspended users can bypass UGC upload ban](https://hackerone.com/reports/354660) | $500.0 |
+| 39 | [[GoldSrc] RCE via malformed BSP file](https://hackerone.com/reports/763403) | $450.0 |
+| 40 | [Malformed map detailed texture files in GoldSrc games lead to Remote Code Execution](https://hackerone.com/reports/505173) | $350.0 |
+| 41 | [[GoldSrc] RCE via 'spk' Console Command](https://hackerone.com/reports/769014) | $350.0 |
+| 42 | [RCE on Steam Client via buffer overflow in Server Info](https://hackerone.com/reports/470520) | $0 |
+| 43 | [Panorama UI XSS leads to Remote Code Execution via Kick/Disconnect Message](https://hackerone.com/reports/631956) | $0 |
+| 44 | [Malformed .BMP file in Counter-Strike 1.6 may cause shellcode injection](https://hackerone.com/reports/397545) | $0 |
+| 45 | [Malformed .BSP Access Violation in CS:GO can lead to Remote Code Execution](https://hackerone.com/reports/351014) | $0 |
+| 46 | [MySQL username and password leaked in developer.valvesoftware.com via source code dislosure](https://hackerone.com/reports/291057) | $0 |
+| 47 | [ISteamAssets gives partners control over unrelated community market transactions](https://hackerone.com/reports/577584) | $0 |
+| 48 | [Malformed .MDL triggers an Access Violation on GoldSRC (hl.exe)](https://hackerone.com/reports/495793) | $0 |
+| 49 | [Access to microtransaction sales data for lots of apps from 2014 to present at /valvefinance/sanity/](https://hackerone.com/reports/975212) | $0 |
+| 50 | [ImageMagick GIF coder vulnerability leading to memory disclosure](https://hackerone.com/reports/315256) | $0 |
+| 51 | [Steam chat - trade offer presentation vulnerability](https://hackerone.com/reports/745447) | $0 |
+| 52 | [Big Picture web browser leaks login cookies and discloses sensitive information (may lead to account takeover)](https://hackerone.com/reports/1079561) | $0 |
+| 53 | [Shell command injection in https://partner.steamgames.com/admin/game/publish/ via screenshot URL](https://hackerone.com/reports/949361) | $0 |
+| 54 | [Add any depot to your app and access its contents without decryption key;  via /apps/setcommonredists](https://hackerone.com/reports/1018368) | $0 |
+| 55 | [https://srcds.valve.net/find/ is leaking server config / API keys](https://hackerone.com/reports/1168557) | $0 |
+| 56 | [Link filter protection bypass](https://hackerone.com/reports/291750) | $0 |
+| 57 | [Buffer overflow In hl.exe's launch -game argument allows an attacker to execute arbitrary code locally or from browser](https://hackerone.com/reports/832750) | $0 |
+| 58 | [Shell command injection in https://partner.steamgames.com/apps/communityitems/ via file extension of item_image_small and item_image_large](https://hackerone.com/reports/840243) | $0 |
+| 59 | [WG call injection in /economy/contextcommand](https://hackerone.com/reports/652649) | $0 |
+| 60 | [Shell command injection in https://partner.steamgames.com/bundles/savestore/ via overwriting asset_path_identifier](https://hackerone.com/reports/926169) | $0 |
+| 61 | [SQL injection in /errors/viewbuild/](https://hackerone.com/reports/690349) | $0 |
+| 62 | [Web API key registration allows registering multiple keys by reusing `request_id` ](https://hackerone.com/reports/2270633) | $0 |
+| 63 | [Buffer overflows in demo parsing](https://hackerone.com/reports/350119) | $0 |
+| 64 | [Reflected XSS in www.dota2.com](https://hackerone.com/reports/292457) | $0 |
+| 65 | [Hidden scheduled partner events are propagated to Steam clients in CMsgClientClanState](https://hackerone.com/reports/780167) | $0 |
+| 66 | [Malformed Skybox .TGA in Half-Life (GoldSRC) leads to Access Violation](https://hackerone.com/reports/351016) | $0 |
+| 67 | [/applications/dpc_(get&#124;post) provide full access to api.steampowered.com with the Dota2 API key](https://hackerone.com/reports/674800) | $0 |
+| 68 | [LFI in pChart php library](https://hackerone.com/reports/288298) | $0 |
+| 69 | [Unauthorized updates to extended_info properties in /store/ajaxpackagesave](https://hackerone.com/reports/815547) | $0 |
+| 70 | [Privilege Escalation vulnerability in steam's Remote Play feature leads to arbitrary kernel-mode driver installation](https://hackerone.com/reports/852091) | $0 |
+| 71 | [Comment restriction in subsection "Workshop" of domain "steamcommunity.com" can be bypassed using IDOR](https://hackerone.com/reports/365504) | $0 |
+| 72 | [GetGlobalAchievementPercentagesForApp is missing the same release checks as GetSchemaForGame](https://hackerone.com/reports/541020) | $0 |
+| 73 | [Malformed BSP in GoldSrc Engine may cause shellcode injection](https://hackerone.com/reports/458929) | $0 |
+| 74 | [RCE on partner.steampowered.com](https://hackerone.com/reports/518348) | $0 |
+| 75 | [Potential buffer overflow in demoplayer module of GoldSource Engine](https://hackerone.com/reports/440758) | $0 |
+| 76 | [Aapp name leakage on economy history page](https://hackerone.com/reports/349681) | $0 |
+| 77 | [Reflected XSS on help.steampowered.com](https://hackerone.com/reports/390429) | $0 |
+| 78 | [Malformed .WAV triggers an Access Violation on GoldSRC (hl.exe)](https://hackerone.com/reports/495789) | $0 |
+| 79 | [Unfiltered input allows for XSS in "Playtime Item Grants" fields](https://hackerone.com/reports/353334) | $0 |
+| 80 | [CSRF &#124; Ban or unban users in broadcast's chat](https://hackerone.com/reports/381237) | $0 |
+| 81 | [Add apps to packages 0, 61, 62 with /store/ajaxpackagemerge](https://hackerone.com/reports/972243) | $0 |
+| 82 | [Vulnerability in GoldSource Engine allows to upload and run an arbitrary DLL on client](https://hackerone.com/reports/508894) | $0 |

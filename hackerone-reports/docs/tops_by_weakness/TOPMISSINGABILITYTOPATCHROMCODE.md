@@ -1,0 +1,3 @@
+Top Missing Ability to Patch ROM Code reports from HackerOne:
+
+No disclosed public reports for this weakness in the corpus.

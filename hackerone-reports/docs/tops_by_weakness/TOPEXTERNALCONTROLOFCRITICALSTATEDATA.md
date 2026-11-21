@@ -1,0 +1,5 @@
+Top External Control of Critical State Data reports from HackerOne:
+
+1. [connect.8x8.com: Automation Builder - Input Validation Issue in Workflow Step Outputs](https://hackerone.com/reports/3858504) to 8x8 - 36 upvotes, $1337
+2. [Disclosure of internal information using hidden NTLM authentication leading to an exploit server](https://hackerone.com/reports/853284) to MTN Group - 12 upvotes, $0
+3. [match](https://hackerone.com/reports/1555440) to curl - 0 upvotes, $0

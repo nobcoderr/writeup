@@ -1,0 +1,1853 @@
+# Corpus coverage
+
+- Updated (UTC): `2026-11-21T11:45:31Z`
+- Disclosed reports: **15491**
+- New reports this run: **0**
+- Programs with reports: **430** / 757 directory programs
+- Weaknesses with reports: **214** / 1636 catalog weaknesses
+
+Every directory program and every catalog weakness has an index page.
+Pages with zero public disclosures say so explicitly.
+
+## Directory programs with no disclosed reports (414)
+
+-  Esteé  Lauder
+- 1Password - CTF
+- 1win
+- 23andMe Bug Bounty
+- 3CX
+- 6sense VDP
+- ABB Information Systems Ltd
+- Abercrombie & Fitch Bug Bounty
+- Abercrombie & Fitch Management Co.
+- ABN AMRO Bank VDP
+- Adevinta
+- Aegean Airlines Vulnerability Disclosure
+- Aeromexico VDP
+- Agoda Public
+- AIG
+- Airtable
+- Alibaba BBP
+- Alibaba VDP
+- Alibaba VDP Old
+- Allegion
+- Alliance of American Football 
+- ALSCO
+- Alshaya
+- Alvosec
+- Amazon Vulnerability Research Program
+- Amitree Inc
+- Anduril Industries
+- Anker
+- Anthropic
+- Anthropic Cyber Jailbreak
+- Anywhere Real Estate
+- AODocs
+- Aon
+- Apache Kafka (European Commission - DIGIT)
+- APNIC
+- Arkose Labs
+- Assa Abloy Americas
+- AT&T
+- Audible
+- Avalara
+- Aven (Response)
+- Badoo
+- Baird
+- Banco BMG VDP
+- Banco Plata
+- BankUnited
+- Beiersdorf
+- Best Buy
+- Big Monocle
+- BILL VDP
+- Binary.com Cashier
+- BitMEX
+- Blend Labs
+- blockimmo
+- Blue Apron (Wonder Group) VDP
+- Booking.com
+- Bose (VDP)
+- Box BB
+- Braze, Inc.
+- Brightspeed
+- British Airways VDP
+- Bullion Exchanges
+- Bumba
+- Bybit Fintech Ltd
+- Callsign
+- Canada Goose Inc.
+- Capital One
+- Capital One Bug Bounty
+- Caterpillar
+- CBRE
+- Cedars-Sinai
+- Centene_vdp
+- Checkout 
+- Chia Network
+- Chorus
+- Circle
+- Cirrus Insight
+- Citi Group
+- City of Los Angeles
+- Clarivate
+- CLEAR
+- Clear Street Disclosure Program
+- Cloud Software Group
+- Clubhouse
+- Cobinhood
+- Cognition
+- Cognizant
+- CoinDCX Vulnerability Disclosure
+- Coinhako
+- CoinSpot
+- Compass
+- Copper
+- Corebridge Financial
+- Cornershop
+- Costco
+- Coupang
+- Coupang Taiwan
+- Credit Karma
+- Crowdstrike
+- Crypto.com
+- d-you App & German EUDI Wallet Ecosystem
+- DailyPay VDP
+- Databricks
+- DefectDojo
+- Deribit
+- DIB-VDP
+- Diem
+- Disclosure Assistance
+- Discover VDP
+- Divvy Homes
+- DocuSign
+- DoorDash
+- Dyson
+- Early Warning
+- Earny
+- eero
+- eMoney Advisor
+- Epic Games
+- Epic Games VDP
+- ESLint
+- Eurofins
+- Expedia Group VDP
+- Experian
+- FanDuel Response
+- Faraday, Inc.
+- Ferrero
+- Fertitta Entertainment
+- Fidelity
+- Fifth Third Bank VDP
+- Fig
+- FileZilla (European Commission - DIGIT)
+- Finnair Vulnerability Disclosure
+- FINRA Response
+- Fireblocks
+- Fireblocks MPC
+- Fiserv
+- Flexport VDP
+- Flipkart
+- FloQast
+- Flutter UK&I
+- Fresenius
+- Freshworks 
+- Front
+- GetYourGuide VDP
+- Global Payments
+- Gmelius
+- GoCardless Bug Bounty Program
+- GoDaddy VDP
+- Gogo VDP
+- Gojek
+- Goldman Sachs
+- GoodRx
+- Greenfly
+- Grindr
+- GSA H1C3
+- Hack the Air Force
+- Hack the Air Force 2.0
+- Hack the Army
+- Hack The Box
+- Hack the DTS
+- Hack the Marine Corps
+- Hack the Pentagon
+- Hack U.S.
+- HCL Software Inc.
+- Hedera Hashgraph
+- Henkel
+- Hertz VDP
+- Hex
+- Hexagon-VDP
+- Hilton
+- Home Bargains
+- Horizen
+- hostinger 
+- Hotmart (VDP)
+- HowAboutWe
+- HPE VDP
+- HubSpot
+- Hud App
+- Hy-Vee
+- Hyland Software
+- HYPR
+- Inditex
+- Inspectorio
+- Inter & Co. VDP
+- Intuit
+- InvestNext
+- ION Group
+- Iron Fish 
+- is*hosting
+- Itaú Unibanco
+- Ivanti (VDP)
+- Jimdo GmbH
+- JNJ Mobile
+- John Deere
+- JohnBlackbourn
+- Judge.me 
+- Kaseya
+- Keurig Dr Pepper
+- KeyBank
+- KHealth
+- Kiwi.com
+- KKR-VDP
+- Klarna
+- KOHO
+- Kraken Tech (VDP)
+- LATAM Airlines
+- LaunchDarkly
+- LendingHome Response
+- Lightspark BBP
+- Live Nation
+- Liverpool Victoria
+- Livestream
+- LogSnitch
+- Loofah
+- Lowe's Companies VDP
+- LPL Financial VDP
+- Luminor
+- M&T Bank Vulnerability Disclosure
+- M-Pesa Africa Limited
+- Magic Eden
+- Magisto
+- Mailtime Technology Inc.
+- Marriott Bug Bounty Program
+- Matomo
+- McGraw Hill
+- Meesho
+- Merck & Co., Inc., Rahway, NJ, USA
+- Mergify
+- Mintel
+- Modern Treasury
+- Monarch Money
+- Mondelēz International
+- MongoDB
+- MoonPay 
+- Moov
+- Mount Sinai Health
+- MSCI
+- Mueller Water Products (VDP)
+- MUFG VDP
+- Munzee
+- N45HT
+- Natur.com GmbH
+- Navient Solutions LLC
+- NBA
+- NBA Public Bug Bounty
+- Nebius AI Vulnerability Disclosure
+- Neon
+- Netflix
+- Netlify
+- NetScaler Public Program
+- Nimiq
+- Ninja Kiwi
+- NISC-VDP
+- Nokogiri
+- Nominet
+- Northern.tech
+- Notepad++ (European Commission - DIGIT)
+- Notion Labs, Inc.
+- OakNorth Bank
+- OANDA
+- Oasis Protocol Foundation
+- Octopus Energy Group
+- Ohio Secretary of State
+- OKG
+- Omarchy
+- Omnicell
+- On 
+- Open Technology Fund
+- OpenSea
+- Oportun
+- Overloop
+- PagerDuty
+- Particle Health VDP
+- Payoneer
+- Paystack Vulnerability Disclosure
+- Peloton
+- Penn Entertainment
+- PepsiCo VDP
+- Pfizer
+- PhonePe
+- Plaid
+- Playtika
+- Pogo
+- Polygon Technology
+- PornBox
+- Porsche
+- PowerDNS
+- PRISM
+- Privy (Bounty)
+- Prudential Financial
+- QinetiQ Response
+- Raivo
+- Razorpay
+- Rebellion Defense
+- Recreation.gov
+- Redis VDP
+- Redox
+- Redtube
+- Regions Financial
+- REI BBP
+- REI VDP
+- REM-B Hydraulics
+- Remitano
+- Render
+- Replyify
+- ResMed
+- Ring
+- Ripio
+- Ro
+- Robinhood Markets
+- Robinhood Markets Bounty
+- S-Pankki
+- savedroid
+- Say Technologies
+- Scopely
+- Semtech
+- ServiceNow Disclosure
+- SHEIN
+- SHI
+- SHOPLAZZA
+- Shutterfly VDP
+- Simple Poll
+- SIX Group
+- Skinport
+- Smartsheet (VDP)
+- Solidus
+- Spell
+- Spotify
+- Standard Notes
+- Stanford University
+- Starbucks China
+- Starbucks Japan
+- Starling Bank VDP
+- Streak
+- Stripchat
+- Supabase
+- Superbet
+- SVB Financial
+- Sweatco Ltd
+- Syfe
+- Symbol
+- Taxwell VDP
+- TD Bank Group
+- Temu
+- Tenable
+- Tesco
+- The Browser Company of NYC
+- The Walt Disney Company
+- Thnks
+- Thomson Reuters
+- TimelyCare
+- Tinder
+- Tines (VDP)
+- TomoChain
+- Toyota
+- TransUnion LLC
+- Treasury Board of Canada Secretariat/Secrétariat du Conseil du Trésor du Canada
+- Trendyol
+- Trip.com
+- TRON DAO
+- Truist Financial
+- Tube8
+- Tumblr
+- Twilio
+- UMA Project
+- Unico IDtech
+- Uniti
+- Upgrade
+- UpHabit
+- Upserve 
+- UserTesting
+- USPS - United States Postal Service
+- Vanguard
+- Varonis
+- Vectra AI, Inc. (Response)
+- Veeam
+- Vend by Lightspeed
+- Vendasta
+- Vercel Open Source
+- Vercel Sandbox
+- Verily Life Sciences
+- Verisk VDP
+- Version Cake
+- VF Corporation - VDP
+- VHX
+- Via
+- Visa
+- Vivy
+- Vodafone
+- Vodafone Oman
+- Vueling
+- Walt.io
+- Wealthsimple
+- WellHive
+- Wells Fargo Bounty
+- Whatnot
+- Whoop Bug Bounty
+- Wickr
+- WINK
+- WisdomTree, Inc.
+- Wolt
+- Worklytics
+- Worldpay
+- Xilinx, now part of AMD – Bug Bounty Program
+- Xilinx, now part of AMD – Vulnerability Disclosure Program
+- XP Inc Vulnerability Disclosure
+- YouPorn
+- Yuga Labs
+- Zabbix
+- Zebra VDP
+- Ziff Davis
+- Zooplus
+- Zopim
+- Zurich Insurance
+
+## Catalog weaknesses with no disclosed reports (1423)
+
+- .NET Misconfiguration: Use of Impersonation
+- Absolute Path Traversal
+- Access of Memory Location After End of Buffer
+- Access of Memory Location Before Start of Buffer
+- Access of Uninitialized Pointer
+- Access to Critical Private Variable via Public Method
+- Accessing Functionality Not Properly Constrained by ACLs
+- Accessing/Intercepting/Modifying HTTP Cookies
+- Account Footprinting
+- Account Hijacking
+- Action Spoofing
+- Active OS Fingerprinting
+- Add Malicious File to Shared Webroot
+- Adding a Space to a File Extension
+- Addition of Data Structure Sentinel
+- Adversary in the Browser (AiTB)
+- Adversary in the Middle (AiTM)
+- AJAX Footprinting
+- Allocation of File Descriptors or Handles Without Limits or Throttling
+- Alteration of a Software Update
+- Altered Component Firmware
+- Altered Installed BIOS
+- Alternative Execution Due to Deceptive Filenames
+- Always-Incorrect Control Flow Implementation
+- Amplification
+- Analysis of Packet Timing and Sizes
+- Android Activity Hijack
+- Android Intent Intercept
+- Application API Button Hijacking
+- Application API Message Manipulation via Man-in-the-Middle
+- Application API Navigation Remapping
+- Application Fingerprinting
+- Application-Level Admin Tool with Inconsistent View of Underlying Operating System
+- Architecture with Number of Horizontal Layers Outside of Expected Range
+- Argument Injection
+- Array Declared Public, Final, and Static
+- Artificially Inflate File Sizes
+- ASI01: Agent Goal Hijack
+- ASI02: Tool Misuse and Exploitation
+- ASI03: Identity and Privilege Abuse
+- ASI04: Agentic Supply Chain Vulnerabilities
+- ASI06: Memory & Context Poisoning
+- ASI07: Insecure Inter-Agent Communication
+- ASI08: Cascading Failures
+- ASI09: Human-Agent Trust Exploitation
+- ASI10: Rogue Agents
+- ASIC With Malicious Functionality
+- ASP.NET Misconfiguration: Creating Debug Binary
+- ASP.NET Misconfiguration: Improper Model Validation
+- ASP.NET Misconfiguration: Missing Custom Error Page
+- ASP.NET Misconfiguration: Not Using Input Validation Framework
+- ASP.NET Misconfiguration: Password in Configuration File
+- ASP.NET Misconfiguration: Use of Identity Impersonation
+- Assigning instead of Comparing
+- Assignment of a Fixed Address to a Pointer
+- Assignment to Variable without Use
+- Assumed-Immutable Data is Stored in Writable Memory
+- Asymmetric Resource Consumption (Amplification)
+- Attempt to Access Child of a Non-structure Pointer
+- Audit Log Manipulation
+- Authentication Abuse
+- Authentication Bypass by Alternate Name
+- Authentication Bypass by Assumed-Immutable Data
+- Authentication Bypass: OpenSSL CTX Object Modified after SSL Objects are Created
+- Authorization Bypass Through User-Controlled SQL Primary Key
+- Automated Recognition Mechanism with Inadequate Detection or Handling of Adversarial Input Perturbations
+- Avoid Security Tool Identification by Adding Data
+- Behavioral Change in New Version or Environment
+- BGP Route Disabling
+- Binding to an Unrestricted IP Address
+- BitSquatting
+- Black Box Reverse Engineering
+- Block Access to Libraries
+- Block Logging to Central Repository
+- Blockage
+- Blue Boxing
+- BlueSmacking
+- Bluetooth Impersonation AttackS (BIAS)
+- Browser Fingerprinting
+- Browser in the Middle (BiTM)
+- Buffer Access Using Size of Source Buffer
+- Buffer Access with Incorrect Length Value
+- Buffer Manipulation
+- Buffer Overflow in an API Call
+- Buffer Overflow in Local Command-Line Utilities
+- Buffer Overflow via Environment Variables
+- Buffer Overflow via Parameter Expansion
+- Buffer Overflow via Symbolic Links
+- Bypassing ATA Password Security
+- Bypassing Electronic Locks and Access Controls
+- Bypassing of Intermediate Forms in Multiple-Form Sets
+- Bypassing Physical Locks
+- Bypassing Physical Security
+- Call to Non-ubiquitous API
+- Call to Thread run() instead of start()
+- Callable with Insufficient Behavioral Summary
+- Calling Micro-Services Directly
+- Capture Credentials via Keylogger
+- Carry-Off GPS Attack
+- Cause Web Server Misclassification
+- Cellular Broadcast Message Request
+- Cellular Data Injection
+- Cellular Jamming
+- Cellular Rogue Base Station
+- Cellular Traffic Intercept
+- Checksum Spoofing
+- Choosing Message Identifier
+- Class Instance Self Destruction Control Element
+- Class with Excessive Number of Child Classes
+- Class with Excessively Deep Inheritance
+- Class with Virtual Method without a Virtual Destructor
+- Cleartext Storage in the Registry
+- Cleartext Storage of Sensitive Information in a Cookie
+- Cleartext Storage of Sensitive Information in Executable
+- Cleartext Storage of Sensitive Information in GUI
+- Cleartext Storage of Sensitive Information in Memory
+- Client-Server Protocol Manipulation
+- Client-side Injection-induced Buffer Overflow
+- clone() Method Without super.clone()
+- Cloneable Class Containing Sensitive Information
+- Cloning Magnetic Strip Cards
+- Cloning RFID Cards or Chips
+- Code Inclusion
+- Collapse of Data into Unsafe Value
+- Collect Data as Provided by Users
+- Collect Data from Clipboard
+- Collect Data from Common Resource Locations
+- Collect Data from Registries
+- Collect Data from Screen Capture
+- Command Delimiters
+- Command Injection
+- Command Line Execution through SQL Injection
+- Command Shell in Externally Accessible Directory
+- Communication Channel Manipulation
+- Comparing instead of Assigning
+- Comparison Logic is Vulnerable to Power Side-Channel Attacks
+- Comparison of Classes by Name
+- Comparison of Incompatible Types
+- Comparison of Object References Instead of Object Contents
+- Comparison Using Wrong Factors
+- Compilation with Insufficient Warnings or Errors
+- Compiler Optimization Removal or Modification of Security-critical Code
+- Compiler Removal of Code to Clear Buffers
+- Compromising Emanations Attack
+- Configuration/Environment Manipulation
+- Connection Reset
+- Contaminate Resource
+- Content Spoofing Via Application API Manipulation
+- Context Switching Race Condition
+- Contradictory Destinations in Traffic Routing Schemes
+- Counterfeit GPS Signals
+- Counterfeit Hardware Component Inserted During Product Assembly
+- Counterfeit Organizations
+- Counterfeit Websites
+- Covert Channel
+- Covert Storage Channel
+- Covert Timing Channel
+- CPU Hardware Not Configured to Support Exclusivity of Write and Execute Operations
+- Create files with the same name as files protected with a higher classification
+- Create Malicious Client
+- Creating a Rogue Certification Authority Certificate
+- Creation of chroot Jail Without Changing Working Directory
+- Creation of Class Instance within a Static Code Block
+- Creation of Emergent Resource
+- Creation of Immutable Text Using String Concatenation
+- Creation of Temporary File in Directory with Insecure Permissions
+- Creation of Temporary File With Insecure Permissions
+- Credential Prompt Impersonation
+- Credential Stuffing
+- Critical Data Element Declared Public
+- Critical Public Variable Without Final Modifier
+- Cross Frame Scripting (XFS)
+- Cross Site Identification
+- Cross Site Request Forgery
+- Cross Site Tracing
+- Cross Zone Scripting
+- Cross-Domain Search Timing
+- Cross-Site Flashing
+- Cryptanalysis
+- Cryptanalysis of Cellular Encryption
+- Cryptographic Operations are run Before Supporting Units are Ready
+- Dangerous Signal Handler not Disabled During Sensitive Operations
+- Dangling Database Cursor ('Cursor Injection')
+- Data Access from Outside Expected Data Manager Component
+- Data Access Operations Outside of Expected Data Manager Component
+- Data Element Aggregating an Excessively Large Number of Non-Primitive Elements
+- Data Element containing Pointer Item without Proper Copy Control Element
+- Data Injected During Configuration
+- Data Interchange Protocol Manipulation
+- Data Resource Access without Use of Connection Pooling
+- Data Serialization External Entities Blowup
+- Dead Code
+- Deadlock
+- Debug Messages Revealing Unnecessary Information
+- Declaration of Catch for Generic Exception
+- Declaration of Throws for Generic Exception
+- Declaration of Variable with Unnecessarily Wide Scope
+- Deletion of Data Structure Sentinel
+- Dependency on Vulnerable Third-Party Component
+- Deployment of Wrong Handler
+- DEPRECATED:  Target Influence via Micro-Expressions
+- DEPRECATED:  Target Influence via Neuro-Linguistic Programming (NLP)
+- DEPRECATED:  Target Influence via Voice in NLP
+- DEPRECATED: Abuse of Transaction Data Structure
+- DEPRECATED: Apple '.DS_Store'
+- DEPRECATED: Authentication Bypass Issues
+- DEPRECATED: Bypassing Card or Badge-Based Systems
+- DEPRECATED: Catching exception throw/signal from privileged block
+- DEPRECATED: Code Injection
+- DEPRECATED: Containment Errors (Container Errors)
+- DEPRECATED: Covert Timing Channel
+- DEPRECATED: Degradation
+- DEPRECATED: Directory Traversal
+- DEPRECATED: DTD Injection in a SOAP Message
+- DEPRECATED: Dump Password Hashes
+- DEPRECATED: Environment Variable Manipulation
+- DEPRECATED: Failure to Protect Stored Data from Modification
+- DEPRECATED: Failure to provide confidentiality for stored data
+- DEPRECATED: Fuzzing for garnering J2EE/.NET-based stack traces, for application mapping
+- DEPRECATED: General Information Management Problems
+- DEPRECATED: Global variable manipulation
+- DEPRECATED: HTTP response splitting
+- DEPRECATED: ICMP Echo Request Ping
+- DEPRECATED: ICMP Fingerprinting Probes
+- DEPRECATED: Implementing a callback to system routine (old AWT Queue)
+- DEPRECATED: Improper Sanitization of Custom Special Characters
+- DEPRECATED: Incorrect Initialization
+- DEPRECATED: Incorrect Semantic Object Comparison
+- DEPRECATED: Information Exposure Through Cleanup Log Files
+- DEPRECATED: Information Exposure Through Debug Log Files
+- DEPRECATED: Information Exposure Through Server Log Files
+- DEPRECATED: Information Gathering from Non-Traditional Sources
+- DEPRECATED: Information Gathering from Traditional Sources
+- DEPRECATED: Infrastructure-based footprinting
+- DEPRECATED: IP Fingerprinting Probes
+- DEPRECATED: Leveraging web tools (e.g. Mozilla's GreaseMonkey, Firebug) to change application behavior
+- DEPRECATED: Lifting credential(s)/key material embedded in client distributions (thick or thin)
+- DEPRECATED: Linux Terminal Injection
+- DEPRECATED: Malicious Logic Insertion via Counterfeit Hardware
+- DEPRECATED: Malicious Logic Insertion via Inclusion of Counterfeit Hardware Components
+- DEPRECATED: Malware Propagation via Infected Peripheral Device
+- DEPRECATED: Malware Propagation via USB Stick
+- DEPRECATED: Malware Propagation via USB U3 Autorun
+- DEPRECATED: Manipulate Canonicalization
+- DEPRECATED: Miscalculated Null Termination
+- DEPRECATED: Modification of Existing Components with Counterfeit Hardware
+- DEPRECATED: Obtain Data via Utilities
+- DEPRECATED: Often Misused: Path Manipulation
+- DEPRECATED: OS Fingerprinting
+- DEPRECATED: Passively Sniffing and Capturing Application Code Bound for an Authorized Client During Dynamic Update
+- DEPRECATED: Passively Sniffing and Capturing Application Code Bound for an Authorized Client During Initial Distribution
+- DEPRECATED: Passively Sniffing and Capturing Application Code Bound for an Authorized Client During Patching
+- DEPRECATED: Pretexting
+- DEPRECATED: Proxied Trusted Channel
+- DEPRECATED: Race Condition in Switch
+- DEPRECATED: Registry Manipulation
+- DEPRECATED: Reliance on DNS Lookups in a Security Decision
+- DEPRECATED: Removing/short-circuiting 'guard logic'
+- DEPRECATED: Schedule Software To Run
+- DEPRECATED: Signature-Based Avoidance
+- DEPRECATED: SOAP Parameter Tampering
+- DEPRECATED: Social Information Gathering Attacks
+- DEPRECATED: Social Information Gathering via Research
+- DEPRECATED: State Synchronization Error
+- DEPRECATED: Subversion of Authorization Checks: Cache Filtering, Programmatic Security, etc.
+- DEPRECATED: Target Influence via Perception of Concession
+- DEPRECATED: TCP/IP Fingerprinting Probes
+- DEPRECATED: Trusting Self-reported DNS Name
+- DEPRECATED: Uncontrolled File Descriptor Consumption
+- DEPRECATED: Use of Dynamic Class Loading
+- DEPRECATED: Use of Uninitialized Resource
+- DEPRECATED: Using URL/codebase / G.A.C. (code source) to convince sandbox of privilege
+- DEPRECATED: Variable Manipulation
+- DEPRECATED: Violating Implicit Assumptions Regarding XML Content (aka XML Denial of Service (XDoS))
+- DEPRECATED: XML Client-Side Attack
+- DEPRECATED: XML Parser Attack
+- DEPRECATED: XSS in IMG Tags
+- DEPRECATED: XSS through Log Files
+- DEPRECATED: XSS Using Flash
+- Design Alteration
+- Design for FPGA Maliciously Altered
+- Detect Unpublicized Web Pages
+- Detect Unpublicized Web Services
+- Detection of Error Condition Without Action
+- Developer Signing Maliciously Altered Software
+- Development Alteration
+- Device Unlock Credential Sharing
+- DHCP Spoofing
+- Dictionary-based Password Attack
+- Direct Use of Unsafe JNI
+- Directory Indexing
+- Disable Security Software
+- Disabling Network Hardware
+- Divide By Zero
+- DLL Side-Loading
+- DMA Device Enabled Too Early in Boot Phase
+- DNS Blocking
+- DNS Cache Poisoning
+- DNS Domain Seizure
+- DNS Rebinding
+- DNS Spoofing
+- DNS Zone Transfers
+- Documentation Alteration to Cause Errors in System Design
+- Documentation Alteration to Circumvent Dial-down
+- Documentation Alteration to Produce Under-performing Systems
+- DOM-Based XSS
+- Double Decoding of the Same Data
+- Double Encoding
+- Double-Checked Locking
+- Doubled Character XSS Manipulations
+- Driving Intermediate Cryptographic State/Results to Hardware Module Outputs
+- Drop Encryption Level
+- DTD Injection
+- Dumpster Diving
+- Duplicate Key in Associative List (Alist)
+- Dynamic Variable Evaluation
+- Eavesdropping
+- Eavesdropping on a Monitor
+- EJB Bad Practices: Use of AWT Swing
+- EJB Bad Practices: Use of Class Loader
+- EJB Bad Practices: Use of Java I/O
+- EJB Bad Practices: Use of Sockets
+- EJB Bad Practices: Use of Synchronization Primitives
+- Electromagnetic Side-Channel Attack
+- Email Injection
+- Embed Virus into DLL
+- Embedding NULL Bytes
+- Embedding Scripts within Scripts
+- Empty Code Block
+- Empty Exception Block
+- Empty Password in Configuration File
+- Empty Synchronized Block
+- Encryption Brute Forcing
+- Enumerate Mail Exchange (MX) Records
+- Escaping a Sandbox by Calling Code in Another Language
+- Escaping Virtualization
+- Establish Rogue Location
+- Evercookie
+- Evil Twin Wi-Fi Attack
+- Excavation
+- Excessive Allocation
+- Excessive Attack Surface
+- Excessive Code Complexity
+- Excessive Data Query Operations in a Large Data Table
+- Excessive Execution of Sequential Searches of Data Resource
+- Excessive Halstead Complexity
+- Excessive Index Range Scan for a Data Resource
+- Excessive Iteration
+- Excessive McCabe Cyclomatic Complexity
+- Excessive Number of Inefficient Server-Side Data Accesses
+- Excessive Platform Resource Consumption within a Loop
+- Excessive Reliance on Global Variables
+- Excessive Use of Hard-Coded Literals in Initialization
+- Excessive Use of Self-Modifying Code
+- Excessive Use of Unconditional Branching
+- Excessively Complex Data Representation
+- Excessively Deep Nesting
+- Executable Regular Expression Error
+- Execution After Redirect (EAR)
+- Expanding Control over the Operating System from the Database
+- Expired Pointer Dereference
+- Explicit Call to Finalize()
+- Exploit Non-Production Interfaces
+- Exploit Script-Based APIs
+- Exploitation of Firmware or ROM Code with Unpatchable Vulnerabilities
+- Exploitation of Improperly Configured or Implemented Memory Protections
+- Exploitation of Improperly Controlled Hardware Security Identifiers
+- Exploitation of Improperly Controlled Registers
+- Exploitation of Thunderbolt Protection Flaws
+- Exploitation of Transient Instruction Execution
+- Exploitation of Trusted Identifiers
+- Exploiting Incorrect Chaining or Granularity of Hardware Debug Components
+- Exploiting Incorrectly Configured Access Control Security Levels
+- Exploiting Multiple Input Interpretation Layers
+- Exploiting Trust in Client
+- Explore for Predictable Temporary File Names
+- Exponential Data Expansion
+- Exposed IOCTL with Insufficient Access Control
+- Exposed Unsafe ActiveX Method
+- Exposure of Access Control List Files to an Unauthorized Control Sphere
+- Exposure of Backup File to an Unauthorized Control Sphere
+- Exposure of Core Dump File to an Unauthorized Control Sphere
+- Exposure of File Descriptor to Unintended Control Sphere ('File Descriptor Leak')
+- Exposure of Information Through Shell Error Message
+- Exposure of Resource to Wrong Sphere
+- Exposure of Sensitive Information caused by Incorrect Data Forwarding during Transient Execution
+- Exposure of Sensitive Information caused by Shared Microarchitectural Predictor State that Influences Transient Execution
+- Exposure of Sensitive Information during Transient Execution
+- Exposure of Sensitive Information in Shared Microarchitectural Structures during Transient Execution
+- Exposure of Sensitive Information Through Data Queries
+- Exposure of Sensitive Information Through Environmental Variables
+- Exposure of Sensitive Information Through Metadata
+- Exposure of Sensitive Information to an Unauthorized Actor
+- Exposure of Sensitive System Information Due to Uncleared Debug Information
+- Exposure of Sensitive System Information to an Unauthorized Control Sphere
+- Exposure of Version-Control Repository to an Unauthorized Control Sphere
+- Exposure of WSDL File Containing Sensitive Information
+- Expression is Always False
+- Expression is Always True
+- External Control of Assumed-Immutable Web Parameter
+- External Control of System or Configuration Setting
+- External Influence of Sphere Definition
+- External Initialization of Trusted Variables or Data Stores
+- Externally-Generated Error Message Containing Sensitive Information
+- Fabric-Address Map Allows Programming of Unwarranted Overlaps of Protected and Unprotected Ranges
+- Failure to Disable Reserved Bits
+- Failure to Handle Incomplete Element
+- Failure to Handle Missing Parameter
+- Failure to Sanitize Paired Delimiters
+- Fake the Source of Data
+- File Discovery
+- Files or Directories Accessible to External Parties
+- Filter Failure through Buffer Overflow
+- finalize() Method Declared Public
+- finalize() Method Without super.finalize()
+- Fingerprinting
+- Firmware Not Updateable
+- Flash File Overlay
+- Flash Injection
+- Flash Memory Attacks
+- Flash Parameter Injection
+- Floating Point Comparison with Incorrect Operator
+- Flooding
+- Footprinting
+- Force the System to Reset Values
+- Force Use of Corrupted Files
+- Forced Deadlock
+- Forced Integer Overflow
+- Forceful Browsing
+- Format String Injection
+- Fraud
+- Free of Pointer not at Start of Buffer
+- Function Call With Incorrect Argument Type
+- Function Call With Incorrect Number of Arguments
+- Function Call With Incorrect Order of Arguments
+- Function Call With Incorrect Variable or Reference as Argument
+- Function Call With Incorrectly Specified Argument Value
+- Function Call with Incorrectly Specified Arguments
+- Functionality Bypass
+- Functionality Misuse
+- Fuzzing
+- Fuzzing for application mapping
+- Fuzzing for garnering other adjacent user/sensitive data
+- Generation of Credential with Long Expiration
+- Generation of Error Message Containing Sensitive Information
+- Generation of Incorrect Security Tokens
+- Generation of Predictable IV with CBC Mode
+- Generation of Predictable Numbers or Identifiers
+- Generation of Weak Initialization Vector (IV)
+- Generic Cross-Browser Cross-Domain Theft
+- Group Permission Footprinting
+- Guessable CAPTCHA
+- Hardware Allows Activation of Test or Debug Logic at Runtime
+- Hardware Child Block Incorrectly Connected to Parent System
+- Hardware Component Substitution
+- Hardware Component Substitution During Baselining
+- Hardware Design Specifications Are Altered
+- Hardware Fault Injection
+- Hardware Integrity Attack
+- Hardware Internal or Debug Modes Allow Override of Locks
+- Hardware Logic Contains Race Conditions
+- Hardware Logic with Insecure De-Synchronization between Control and Data Channels
+- Hardware Simulation / Synthesis Mismatch
+- Harvesting Information via API Event Monitoring
+- Hidden Functionality
+- Hiding Malicious Data or Code within Files
+- Hijacking a privileged process
+- Hijacking a Privileged Thread of Execution
+- Homograph Attack via Homoglyphs
+- Host Discovery
+- HTTP DoS
+- HTTP Flood
+- HTTP Parameter Pollution (HPP)
+- HTTP Request Splitting
+- HTTP Response Smuggling
+- HTTP Verb Tampering
+- ICMP Address Mask Request
+- ICMP Echo Request Ping
+- ICMP Error Message Echoing Integrity Probe
+- ICMP Error Message Quoting Probe
+- ICMP Flood
+- ICMP Fragmentation
+- ICMP Information Request
+- ICMP IP 'ID' Field Error Message Probe
+- ICMP IP Total Length Field Probe
+- Identify Shared Files/Directories on System
+- Identity Spoofing
+- iFrame Overlay
+- IMAP/SMTP Command Injection
+- Improper Access Control Applied to Mirrored or Aliased Memory Regions
+- Improper Access Control for Register Interface
+- Improper Access Control for Volatile Memory Containing Boot Code
+- Improper Address Validation in IOCTL with METHOD_NEITHER I/O Control Code
+- Improper Adherence to Coding Standards
+- Improper Authentication
+- Improper Authorization in Handler for Custom URL Scheme
+- Improper Authorization of Index Containing Sensitive Information
+- Improper Check for Credential Expiration
+- Improper Check for Dropped Privileges
+- Improper Check for Unusual or Exceptional Conditions
+- Improper Cleanup on Thrown Exception
+- Improper Clearing of Heap Memory Before Release ('Heap Inspection')
+- Improper Control of a Resource Through its Lifetime
+- Improper Control of Document Type Definition
+- Improper Control of Dynamically-Identified Variables
+- Improper Control of Dynamically-Managed Code Resources
+- Improper Control of Interaction Frequency
+- Improper Encoding or Escaping of Output
+- Improper Enforcement of a Single, Unique Action
+- Improper Enforcement of Behavioral Workflow
+- Improper Enforcement of Message Integrity During Transmission in a Communication Channel
+- Improper Expiration of Cached Data
+- Improper External Identity Verification
+- Improper Filtering of Special Elements
+- Improper Finite State Machines (FSMs) in Hardware Logic
+- Improper Following of Specification by Caller
+- Improper Handling of Additional Special Element
+- Improper Handling of Alternate Encoding
+- Improper Handling of Apple HFS+ Alternate Data Stream Path
+- Improper Handling of Extra Parameters
+- Improper Handling of Extra Values
+- Improper Handling of Faults that Lead to Instruction Skips
+- Improper Handling of File Names that Identify Virtual Resources
+- Improper Handling of Hardware Behavior in Exceptionally Cold Environments
+- Improper Handling of Incomplete Structural Elements
+- Improper Handling of Inconsistent Special Elements
+- Improper Handling of Inconsistent Structural Elements
+- Improper Handling of Insufficient Entropy in TRNG
+- Improper Handling of Insufficient Privileges
+- Improper Handling of Invalid Use of Special Elements
+- Improper Handling of Length Parameter Inconsistency
+- Improper Handling of Missing Special Element
+- Improper Handling of Missing Values
+- Improper Handling of Mixed Encoding
+- Improper Handling of Overlap Between Protected Memory Ranges
+- Improper Handling of Parameters
+- Improper Handling of Physical or Environmental Conditions
+- Improper Handling of Single Event Upsets
+- Improper Handling of Structural Elements
+- Improper Handling of Syntactically Invalid Structure
+- Improper Handling of Undefined Parameters
+- Improper Handling of Undefined Values
+- Improper Handling of Values
+- Improper Handling of Windows ::DATA Alternate Data Stream
+- Improper Handling of Windows Device Names
+- Improper Interaction Between Multiple Correctly-Behaving Entities
+- Improper Isolation of Shared Resources in Network On Chip (NoC)
+- Improper Isolation of Shared Resources on System-on-a-Chip (SoC)
+- Improper Isolation or Compartmentalization
+- Improper Lock Behavior After Power State Transition
+- Improper Locking
+- Improper Management of Sensitive Trace Data
+- Improper Neutralization
+- Improper Neutralization of Alternate XSS Syntax
+- Improper Neutralization of Argument Delimiters in a Command ('Argument Injection')
+- Improper Neutralization of Comment Delimiters
+- Improper Neutralization of Data within XPath Expressions ('XPath Injection')
+- Improper Neutralization of Data within XQuery Expressions ('XQuery Injection')
+- Improper Neutralization of Delimiters
+- Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection')
+- Improper Neutralization of Directives in Statically Saved Code ('Static Code Injection')
+- Improper Neutralization of Encoded URI Schemes in a Web Page
+- Improper Neutralization of Equivalent Special Elements
+- Improper Neutralization of Expression/Command Delimiters
+- Improper Neutralization of Input During Web Page Generation (Reflected XSS)
+- Improper Neutralization of Input Leaders
+- Improper Neutralization of Input Terminators
+- Improper Neutralization of Input Used for LLM Prompting
+- Improper Neutralization of Internal Special Elements
+- Improper Neutralization of Invalid Characters in Identifiers in Web Pages
+- Improper Neutralization of Leading Special Elements
+- Improper Neutralization of Line Delimiters
+- Improper Neutralization of Macro Symbols
+- Improper Neutralization of Multiple Internal Special Elements
+- Improper Neutralization of Multiple Leading Special Elements
+- Improper Neutralization of Multiple Trailing Special Elements
+- Improper Neutralization of Null Byte or NUL Character
+- Improper Neutralization of Parameter/Argument Delimiters
+- Improper Neutralization of Quoting Syntax
+- Improper Neutralization of Record Delimiters
+- Improper Neutralization of Script in an Error Message Web Page
+- Improper Neutralization of Script in Attributes in a Web Page
+- Improper Neutralization of Script in Attributes of IMG Tags in a Web Page
+- Improper Neutralization of Section Delimiters
+- Improper Neutralization of Server-Side Includes (SSI) Within a Web Page
+- Improper Neutralization of Special Elements
+- Improper Neutralization of Special Elements in Data Query Logic
+- Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection')
+- Improper Neutralization of Special Elements Used in a Template Engine
+- Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection')
+- Improper Neutralization of Substitution Characters
+- Improper Neutralization of Trailing Special Elements
+- Improper Neutralization of Variable Name Delimiters
+- Improper Neutralization of Wildcards or Matching Symbols
+- Improper Ownership Management
+- Improper Physical Access Control
+- Improper Preservation of Consistency Between Independent Representations of Shared State
+- Improper Prevention of Lock Bit Modification
+- Improper Protection against Electromagnetic Fault Injection (EM-FI)
+- Improper Protection Against Voltage and Clock Glitches
+- Improper Protection for Out of Bounds Signal Level Alerts
+- Improper Protection of Alternate Path
+- Improper Protection of Physical Side Channels
+- Improper Protections Against Hardware Overheating
+- Improper Request Propagation before Data Reception in Write Transactions in a Bus Architecture
+- Improper Resolution of Path Equivalence
+- Improper Resource Locking
+- Improper Restriction of Communication Channel to Intended Endpoints
+- Improper Restriction of Names for Files and Other Resources
+- Improper Restriction of Power Consumption
+- Improper Restriction of Rendered UI Layers or Frames
+- Improper Restriction of Security Token Assignment
+- Improper Restriction of Software Interfaces to Hardware Features
+- Improper Restriction of Write-Once Bit Fields
+- Improper Scrubbing of Sensitive Data from Decommissioned Device
+- Improper Session Invalidation
+- Improper Session Invalidation after Authentication Credential Change
+- Improper Session Invalidation after User Logout
+- Improper Session Management
+- Improper Setting of Bus Controlling Capability in Fabric End-point
+- Improper Translation of Security Attributes by Fabric Bridge
+- Improper Update of Reference Count
+- Improper Use of Validation Framework
+- Improper Validation of Consistency within Input
+- Improper Validation of Function Hook Arguments
+- Improper Validation of Generative AI Output
+- Improper Validation of Integrity Check Value
+- Improper Validation of Specified Index, Position, or Offset in Input
+- Improper Validation of Specified Quantity in Input
+- Improper Validation of Specified Type of Input
+- Improper Validation of Unsafe Equivalence in Input
+- Improper Verification of Intent by Broadcast Receiver
+- Improper Verification of Source of a Communication Channel
+- Improper Write Handling in Limited-write Non-Volatile Memories
+- Improper Zeroization of Hardware Register
+- Improperly Controlled Modification of Dynamically-Determined Object Attributes
+- Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution')
+- Improperly Controlled Sequential Memory Allocation
+- Improperly Implemented Security Check for Standard
+- Improperly Preserved Integrity of Hardware Configuration State During a Power Save/Restore Operation
+- Inaccurate Comments
+- Inappropriate Comment Style
+- Inappropriate Encoding for Output Context
+- Inappropriate Source Code Style or Formatting
+- Inappropriate Whitespace Style
+- Inclusion of Code in Existing Process
+- Inclusion of Sensitive Information in Source Code
+- Inclusion of Sensitive Information in Source Code Comments
+- Inclusion of Sensitive Information in Test Code
+- Inclusion of Undocumented Features or Chicken Bits
+- Inclusion of Web Functionality from an Untrusted Source
+- Incomplete Blacklist
+- Incomplete Cleanup
+- Incomplete Comparison with Missing Factors
+- Incomplete Data Deletion in a Multi-Tenant Environment
+- Incomplete Data/State Propagation
+- Incomplete Denylist to Cross-Site Scripting
+- Incomplete Design Documentation
+- Incomplete Documentation of Program Execution
+- Incomplete Filtering of Multiple Instances of Special Elements
+- Incomplete Filtering of One or More Instances of Special Elements
+- Incomplete Filtering of Special Elements
+- Incomplete I/O Documentation
+- Incomplete Identification of Uploaded File Variables (PHP)
+- Incomplete Internal State Distinction
+- Incomplete Model of Endpoint Features
+- Inconsistent Naming Conventions for Identifiers
+- Incorrect Access of Indexable Resource ('Range Error')
+- Incorrect Behavior Order
+- Incorrect Behavior Order: Authorization Before Parsing and Canonicalization
+- Incorrect Behavior Order: Early Amplification
+- Incorrect Behavior Order: Early Validation
+- Incorrect Behavior Order: Validate Before Canonicalize
+- Incorrect Behavior Order: Validate Before Filter
+- Incorrect Bitwise Shift of Integer
+- Incorrect Block Delimitation
+- Incorrect Calculation
+- Incorrect Calculation of Multi-Byte String Length
+- Incorrect Chaining or Granularity of Debug Components
+- Incorrect Check of Function Return Value
+- Incorrect Comparison Logic Granularity
+- Incorrect Control Flow Scoping
+- Incorrect Conversion between Numeric Types
+- Incorrect Conversion of Security Identifiers
+- Incorrect Decoding of Security Identifiers 
+- Incorrect Execution-Assigned Permissions
+- Incorrect Implementation of Authentication Algorithm
+- Incorrect Initialization of Resource
+- Incorrect Ownership Assignment
+- Incorrect Parsing of Numbers with Different Radices
+- Incorrect Pointer Scaling
+- Incorrect Provision of Specified Functionality
+- Incorrect Register Defaults or Module Parameters
+- Incorrect Regular Expression
+- Incorrect Resource Transfer Between Spheres
+- Incorrect Selection of Fuse Values
+- Incorrect Short Circuit Evaluation
+- Incorrect Synchronization
+- Incorrect Type Conversion or Cast
+- Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG)
+- Incorrect Use of Autoboxing and Unboxing for Performance Critical Operations
+- Incorrect Use of Privileged APIs
+- Incorrect User Management
+- Incorrectly Specified Destination in a Communication Channel
+- Inducing Account Lockout
+- Inefficient Algorithmic Complexity
+- Inefficient CPU Computation
+- Inefficient Regular Expression Complexity
+- Infected Hardware
+- Infected Memory
+- Infected Software
+- Infiltration of Hardware Development Environment
+- Infiltration of Software Development Environment
+- Influence Perception
+- Influence Perception of Authority
+- Influence Perception of Commitment and Consistency
+- Influence Perception of Consensus or Social Proof
+- Influence Perception of Liking
+- Influence Perception of Reciprocation
+- Influence Perception of Scarcity
+- Influence via Incentives
+- Influence via Modes of Thinking
+- Influence via Psychological Principles
+- Information Elicitation
+- Information Exposure Through Discrepancy
+- Information Exposure through Microarchitectural State after Transient Execution
+- Information Loss or Omission
+- Infrastructure Manipulation
+- Initialization with Hard-Coded Network Resource Configuration Data
+- Input Data Manipulation
+- Insecure Automated Optimizations
+- Insecure Configuration of Network Infrastructure
+- Insecure Default Variable Initialization
+- Insecure Inherited Permissions
+- Insecure Operation on Windows Junction / Mount Point
+- Insecure Preserved Inherited Permissions
+- Insecure Security Identifier Mechanism
+- Insecure Setting of Generative AI/ML Model Inference Parameters
+- Install Malicious Extension
+- Install New Service
+- Install Rootkit 
+- Insufficient Adherence to Expected Conventions
+- Insufficient Control Flow Management
+- Insufficient Control of Network Message Volume (Network Amplification)
+- Insufficient Documentation of Error Handling Techniques
+- Insufficient Encapsulation
+- Insufficient Encapsulation of Machine-Dependent Functionality
+- Insufficient Entropy
+- Insufficient Entropy in PRNG
+- Insufficient Granularity of Access Control
+- Insufficient Granularity of Address Regions Protected by Register Locks
+- Insufficient Isolation of Symbolic Constant Definitions
+- Insufficient Isolation of System-Dependent Functions
+- Insufficient or Incomplete Data Removal within Hardware Component
+- Insufficient Precision or Accuracy of a Real Number
+- Insufficient Psychological Acceptability
+- Insufficient Resource Pool
+- Insufficient Session Timeout Value
+- Insufficient Technical Documentation
+- Insufficient Type Distinction
+- Insufficient UI Warning of Dangerous Operations
+- Insufficient Use of Symbolic Constants
+- Insufficient Visual Distinction of Homoglyphs Presented to User
+- Insufficiently Controlled Parser Differential
+- Integer Attacks
+- Integer Coercion Error
+- Intent Spoof
+- Inter-component Protocol Manipulation
+- Interception
+- Interface Manipulation
+- Internal Asset Exposed to Unsafe Debug Access Level or State
+- Interpretation Conflict
+- Invocation of a Control Element at an Unnecessarily Deep Horizontal Layer
+- Invocation of Process Using Visible Sensitive Information
+- Invokable Control Element in Multi-Thread Context with non-Final Static Storable or Member Element
+- Invokable Control Element with Excessive File or Data Access Operations
+- Invokable Control Element with Excessive Volume of Commented-out Code
+- Invokable Control Element with Large Number of Outward Calls
+- Invokable Control Element with Signature Containing an Excessive Number of Parameters
+- Invokable Control Element with Variadic Parameters
+- IP 'ID' Echoed Byte-Order Probe
+- IP (DF) 'Don't Fragment Bit' Echoing Probe
+- IP Address Blocking
+- IP ID Sequencing Probe
+- Irrelevant Code
+- J2EE Bad Practices: Direct Management of Connections
+- J2EE Bad Practices: Direct Use of Sockets
+- J2EE Bad Practices: Direct Use of Threads
+- J2EE Bad Practices: Non-serializable Object Stored in Session
+- J2EE Bad Practices: Use of System.exit()
+- J2EE Framework: Saving Unserializable Objects to Disk
+- J2EE Misconfiguration: Data Transmission Without Encryption
+- J2EE Misconfiguration: Entity Bean Declared Remote
+- J2EE Misconfiguration: Insufficient Session-ID Length
+- J2EE Misconfiguration: Missing Custom Error Page
+- J2EE Misconfiguration: Plaintext Password in Configuration File
+- J2EE Misconfiguration: Weak Access Permissions for EJB Methods
+- Jamming
+- Java Runtime Error Message Containing Sensitive Information
+- JSON Hijacking (aka JavaScript Hijacking)
+- Kerberoasting
+- Key Negotiation of Bluetooth Attack (KNOB)
+- Lack of Administrator Control over Security
+- Lack of Binary Hardening
+- Large Data Table with Excessive Number of Indices
+- Least Privilege Violation
+- Leverage Alternate Encoding
+- Leverage Executable Code in Non-Executable Files
+- Leveraging Active Adversary in the Middle Attacks to Bypass Same Origin Policy
+- Leveraging Race Conditions via Symbolic Links
+- Leveraging Time-of-Check and Time-of-Use (TOCTOU) Race Conditions
+- Leveraging/Manipulating Configuration File Search Paths
+- Lifting Sensitive Data Embedded in Cache
+- LLM01:2025 Prompt Injection
+- LLM02: Insecure Output Handling
+- LLM02:2025 Sensitive Information Disclosure
+- LLM03: Training Data Poisoning
+- LLM03:2025 Supply Chain
+- LLM04:2025 Data and Model Poisoning
+- LLM05:2025 Improper Output Handling
+- LLM06:2025 Excessive Agency
+- LLM07: Insecure Plugin Design
+- LLM07:2025 System Prompt Leakage
+- LLM08: Excessive Agency
+- LLM08:2025 Vector and Embedding Weaknesses
+- LLM09: Overreliance
+- LLM10: Model Theft
+- LLM10:2025 Unbounded Consumption
+- Load Value Injection
+- Local Code Inclusion
+- Lock Bumping
+- Lock Picking
+- Log Injection-Tampering-Forging
+- Logging of Excessive Data
+- Logic/Time Bomb
+- Loop Condition Value Update within the Loop
+- Magnetic Strip Card Brute Force Attacks
+- Malicious Automated Software Update via Redirection
+- Malicious Automated Software Update via Spoofing
+- Malicious Code Implanted During Chip Programming
+- Malicious Gray Market Hardware
+- Malicious Hardware Component Replacement
+- Malicious Hardware Update
+- Malicious Logic Inserted Into Product Software by Authorized Developer
+- Malicious Logic Insertion
+- Malicious Logic Insertion into Product Software via Configuration Management Manipulation
+- Malicious Logic Insertion into Product Software via Inclusion of 3rd Party Component Dependency
+- Malicious Manual Software Update
+- Malicious Root Certificate
+- Malicious Software Download
+- Malicious Software Implanted
+- Malicious Software Update
+- Malware-Directed Internal Reconnaissance
+- Manipulate Human Behavior
+- Manipulate Registry Information
+- Manipulating Hidden Fields
+- Manipulating Opaque Client-based Data Tokens
+- Manipulating State
+- Manipulating User-Controlled Variables
+- Manipulating Web Input to File System Calls
+- Manipulating Writeable Configuration Files
+- Manipulating Writeable Terminal Devices
+- Manipulation During Distribution
+- Memory Allocation with Excessive Size Value
+- Metadata Spoofing
+- Method Containing Access of a Member Element from Another Class
+- MIME Conversion
+- Mirrored Regions with Different Values
+- Mismatched Memory Management Routines
+- Missing Ability to Patch ROM Code
+- Missing Check for Certificate Revocation after Initial Check
+- Missing Custom Error Page
+- Missing Default Case in Switch Statement
+- Missing Documentation for Design
+- Missing Handler
+- Missing Immutable Root of Trust in Hardware
+- Missing Initialization of a Variable
+- Missing Initialization of Resource
+- Missing Lock Check
+- Missing Origin Validation in WebSockets
+- Missing Password Field Masking
+- Missing Protection Against Hardware Reverse Engineering Using Integrated Circuit (IC) Imaging Techniques
+- Missing Protection for Mirrored Regions in On-Chip Fabric Firewall
+- Missing Protection Mechanism for Alternate Hardware Interface
+- Missing Reference to Active Allocated Resource
+- Missing Reference to Active File Descriptor or Handle
+- Missing Release of File Descriptor or Handle after Effective Lifetime
+- Missing Release of Resource after Effective Lifetime
+- Missing Report of Error Condition
+- Missing Security Checks in Fabric Bridge
+- Missing Security Identifier
+- Missing Security-Relevant Feedback for Unexecuted Operations in Hardware Interface
+- Missing Serialization Control Element
+- Missing Source Correlation of Multiple Independent Data
+- Missing Standardized Error Handling Mechanism
+- Missing Support for Integrity Check
+- Missing Support for Security Features in On-chip Fabrics or Buses
+- Missing Synchronization
+- Missing Validation of OpenSSL Certificate
+- Missing Write Protection for Parametric Data Values
+- Missing XML Validation
+- Mobile Device Fault Injection
+- Mobile Phishing
+- Modification During Manufacture
+- Modification of Registry Run Keys
+- Modification of Windows Service Configuration
+- Modify Existing Service
+- Modify Shared File
+- Modules with Circular Dependencies
+- Multiple Binds to the Same Port
+- Multiple Inheritance from Concrete Classes
+- Multiple Interpretations of UI Input
+- Multiple Locks of a Critical Resource
+- Multiple Operations on Resource in Single-Operation Context
+- Multiple Releases of Same Resource or Handle
+- Multiple Unlocks of a Critical Resource
+- Mutable Attestation or Measurement Reporting Data
+- Navigation Remapping To Propagate Malicious Content
+- Network Boundary Bridging
+- Network Topology Mapping
+- Non-Equivalent Data Transformation
+- Non-exit on Failed Initialization
+- Non-Replicating Malicious Code
+- Non-SQL Invokable Control Element with Excessive Number of Data Resource Accesses
+- Non-Transparent Sharing of Microarchitectural Resources
+- Not Failing Securely ('Failing Open')
+- Not Using Complete Mediation
+- Not Using Password Aging
+- Null Byte Interaction Error (Poison Null Byte)
+- Numeric Range Comparison Without Minimum Check
+- Numeric Truncation Error
+- Object Injection
+- Object Model Violation: Just One of Equals and Hashcode Defined
+- Object Relational Mapping Injection
+- Obscured Security-relevant Information by Alternate Name
+- Observable Behavioral Discrepancy
+- Observable Behavioral Discrepancy With Equivalent Products
+- Observable Internal Behavioral Discrepancy
+- Observable Response Discrepancy
+- Obsolete Feature in UI
+- Obstruction
+- Omission of Security-relevant Information
+- Omitted Break Statement in Switch
+- On-Chip Debug and Test Interface With Improper Access Control
+- Only Filtering One Instance of a Special Element
+- Only Filtering Special Elements at a Specified Location
+- Only Filtering Special Elements at an Absolute Position
+- Only Filtering Special Elements Relative to a Marker
+- Open-Source Library Manipulation
+- Operation on a Resource after Expiration or Release
+- Operation on Resource in Wrong Phase of Lifetime
+- Operator Precedence Logic Error
+- Orbital Jamming
+- Other
+- Out-of-bounds Write
+- Overflow Binary Resource File
+- Overflow Buffers
+- Overflow Variables and Tags
+- Overly Restrictive Account Lockout Mechanism
+- Overly Restrictive Regular Expression
+- Overread Buffers
+- Oversized Serialized Data Payloads
+- Owner Footprinting
+- Padding Oracle Crypto Attack
+- Parameter Injection
+- Parent Class with a Virtual Destructor and a Child Class without a Virtual Destructor
+- Parent Class with References to Child Class
+- Parent Class without Virtual Destructor Method
+- Passing Local Filenames to Functions That Expect a URL
+- Passing Mutable Objects to an Untrusted Method
+- Passive OS Fingerprinting
+- Password Aging with Long Expiration
+- Password Brute Forcing
+- Password Recovery Exploitation
+- Password Spraying
+- Path Equivalence: ' filename' (Leading Space)
+- Path Equivalence: '/./' (Single Dot Directory)
+- Path Equivalence: '//multiple/leading/slash'
+- Path Equivalence: '/multiple//internal/slash'
+- Path Equivalence: '/multiple/trailing/slash//'
+- Path Equivalence: '\multiple\\internal\backslash'
+- Path Equivalence: 'fakedir/../realdir/filename'
+- Path Equivalence: 'file name' (Internal Whitespace)
+- Path Equivalence: 'file...name' (Multiple Internal Dot)
+- Path Equivalence: 'file.name' (Internal Dot)
+- Path Equivalence: 'filedir*' (Wildcard)
+- Path Equivalence: 'filedir\' (Trailing Backslash)
+- Path Equivalence: 'filename ' (Trailing Space)
+- Path Equivalence: 'filename.' (Trailing Dot)
+- Path Equivalence: 'filename....' (Multiple Trailing Dot)
+- Path Equivalence: 'filename/' (Trailing Slash)
+- Path Equivalence: Windows 8.3 Filename
+- Path Traversal: '...' (Triple Dot)
+- Path Traversal: '....' (Multiple Dot)
+- Path Traversal: '....//'
+- Path Traversal: '../filedir'
+- Path Traversal: '..\filedir'
+- Path Traversal: '/../filedir'
+- Path Traversal: '/absolute/pathname/here'
+- Path Traversal: '/dir/../filename'
+- Path Traversal: '\..\filename'
+- Path Traversal: '\\UNC\share\name\' (Windows UNC Share)
+- Path Traversal: '\absolute\pathname\here'
+- Path Traversal: '\dir\..\filename'
+- Path Traversal: 'C:dirname'
+- Path Traversal: 'dir/../../filename'
+- Peripheral Footprinting
+- Permission Race Condition During Resource Copy
+- Permissive Cross-domain Policy with Untrusted Domains
+- Permissive List of Allowed Inputs
+- Permissive Regular Expression
+- Persistent Storable Data Element without Associated Comparison Control Element
+- Pharming
+- PHP External Variable Modification
+- PHP Remote File Inclusion
+- Physical Destruction of Device or Component
+- Physical Theft
+- Physically Hacking Hardware
+- Placement of User into Incorrect Group
+- Pointer Manipulation
+- Poison Web Service Registry
+- Policy Privileges are not Assigned Consistently Between Control and Data Agents
+- Policy Uses Obsolete Encoding
+- Port Scanning
+- Postfix, Null Terminate, and Backslash
+- Power-On of Untrusted Execution Core Before Enabling Fabric Access Control
+- Predictable Exact Value from Previous Values
+- Predictable from Observable State
+- Predictable Seed in Pseudo-Random Number Generator (PRNG)
+- Predictable Value Range from Previous Values
+- Premature Release of Resource During Expected Lifetime
+- Pretexting
+- Pretexting via Customer Service
+- Pretexting via Delivery Person
+- Pretexting via Phone
+- Pretexting via Tech Support
+- Principal Spoof
+- Private Data Structure Returned From A Public Method
+- Privilege Abuse
+- Privilege Chaining
+- Privilege Context Switching Error
+- Privilege Defined With Unsafe Actions
+- Privilege Dropping / Lowering Errors
+- Probe Audio and Video Peripherals
+- Probe iOS Screenshots
+- Probe System Files
+- Process Control
+- Process Footprinting
+- Processor Optimization Removal or Modification of Security-critical Code
+- Product Released in Non-Release Configuration
+- Product UI does not Warn User of Unsafe Actions
+- Protection Mechanism Failure
+- Protection Mechanism Failure - Content Moderation Bypass
+- Protocol Analysis
+- Protocol Manipulation
+- Provide Counterfeit Component
+- Public cloneable() Method Without Final ('Object Hijack')
+- Public Data Assigned to Private Array-Typed Field
+- Public Key Re-Use for Signing both Debug and Production Code
+- Public Static Field Not Marked Final
+- Public Static Final Field References Mutable Object
+- Pull Data from System Resources
+- Quadratic Data Expansion
+- Query System for Information
+- Race Condition During Access to Alternate Channel
+- Race Condition Enabling Link Following
+- Race Condition for Write-Once Attributes
+- Race Condition within a Thread
+- Rainbow Table Password Cracking
+- Read Sensitive Constants Within an Executable
+- Redirect Access to Libraries
+- Reflection Attack in an Authentication Protocol
+- Reflection Attack in Authentication Protocol
+- Reflection Injection
+- Regular Expression Exponential Blowup
+- Regular Expression without Anchors
+- Release of Invalid Pointer or Reference
+- Reliance on a Single Factor in a Security Decision
+- Reliance on Component That is Not Updateable
+- Reliance on Cookies without Validation and Integrity Checking
+- Reliance on Data/Memory Layout
+- Reliance on File Name or Extension of Externally-Supplied File
+- Reliance on HTTP instead of HTTPS
+- Reliance on IP Address for Authentication
+- Reliance on Machine-Dependent Data Representation
+- Reliance on Obfuscation or Encryption of Security-Relevant Inputs without Integrity Checking
+- Reliance on Package-level Scope
+- Reliance on Runtime Component in Generated Code
+- Reliance on Uncontrolled Component
+- Reliance on Undefined, Unspecified, or Implementation-Defined Behavior
+- Remanent Data Readable after Memory Erase
+- Remote Code Inclusion
+- Remote Services with Stolen Credentials
+- Removal of filters: Input filters, output filters, data masking
+- Removing Important Client Functionality
+- Removing/short-circuiting 'Purse' logic: removing/mutating 'cash' decrements
+- Replace Binaries
+- Replace File Extension Handlers
+- Replace Trusted Executable
+- Replace Winlogon Helper DLL
+- Replicating Malicious Code (Virus or Worm)
+- Repo Jacking
+- Requirements for ASIC Functionality Maliciously Altered
+- Resource Leak Exposure
+- Resource Location Spoofing
+- Restful Privilege Elevation
+- Retrieve Data from Decommissioned Devices
+- Retrieve Embedded Sensitive Data
+- Return Inside Finally Block
+- Return of Pointer Value Outside of Expected Range
+- Return of Stack Variable Address
+- Return of Wrong Status Code
+- Returning a Mutable Object to an Untrusted Caller
+- Reverse Engineer an Executable to Expose Assumed Hidden Functionality
+- Reverse Engineering
+- RFID Chip Deactivation or Destruction
+- Rogue Integration Procedures
+- Root/Jailbreak Detection Evasion via Debugging
+- Root/Jailbreak Detection Evasion via Hooking
+- Rooting SIM Cards
+- Route Disabling
+- Run Software at Logon
+- Runtime Resource Management Control Element in a Component Built to Run on Application Servers
+- SaaS User Request Forgery
+- Same Seed in Pseudo-Random Number Generator (PRNG)
+- Scams
+- Scanning for Vulnerable Software
+- Schema Poisoning
+- Scheme Squatting
+- Screen Temporary Files for Sensitive Information
+- Search Order Hijacking
+- Security Software Footprinting
+- Security Version Number Mutable to Older Versions
+- Security-Sensitive Hardware Controls with Missing Lock Bit Protection
+- Selection of Less-Secure Algorithm During Negotiation ('Algorithm Downgrade')
+- Self-generated Error Message Containing Sensitive Information
+- Semiconductor Defects in Hardware Logic with Security-Sensitive Implications
+- Sensitive Cookie in HTTPS Session Without 'Secure' Attribute
+- Sensitive Cookie with Improper SameSite Attribute
+- Sensitive Cookie Without 'HttpOnly' Flag
+- Sensitive Data Storage in Improperly Locked Memory
+- Sensitive Information Accessible by Physical Probing of JTAG Interface
+- Sensitive Information in Resource Not Removed Before Reuse
+- Sensitive Information Uncleared Before Debug/Power State Transition
+- Sensitive Non-Volatile Information Not Protected During Debug
+- Sequence of Processor Instructions Leads to Unexpected Behavior
+- Serializable Class Containing Sensitive Data
+- Serializable Data Element Containing non-Serializable Item Elements
+- Serialized Data External Linking
+- Serialized Data Parameter Blowup
+- Serialized Data with Nested Payloads
+- Server Functionality Compromise
+- Server Side Include (SSI) Injection
+- Server-generated Error Message Containing Sensitive Information
+- Services Footprinting
+- Servlet Runtime Error Message Containing Sensitive Information
+- Session Credential Falsification through Forging
+- Session Credential Falsification through Manipulation
+- Session Credential Falsification through Prediction
+- Session Hijacking
+- Session Sidejacking
+- Shared Resource Manipulation
+- Shoulder Surfing
+- Signal Handler Function Associated with Multiple Signals
+- Signal Handler Race Condition
+- Signal Handler Use of a Non-reentrant Function
+- Signal Handler with Functionality that is not Asynchronous-Safe
+- Signal Strength Tracking
+- Signature Spoof
+- Signature Spoofing by Improper Validation
+- Signature Spoofing by Key Recreation
+- Signature Spoofing by Key Theft
+- Signature Spoofing by Misrepresentation
+- Signature Spoofing by Mixing Signed and Unsigned Content
+- Signed to Unsigned Conversion Error
+- Signing Malicious Code
+- Singleton Class Instance Creation without Proper Locking or Synchronization
+- Small Seed Space in PRNG
+- Small Space of Random Values
+- Smudge Attack
+- Sniff Application Code
+- Sniffing Attacks
+- Sniffing Network Traffic
+- SOAP Array Blowup
+- SOAP Array Overflow
+- SOAP Manipulation
+- Software Development Tools Maliciously Altered
+- Software Integrity Attack
+- SoundSquatting
+- Source Code Element without Standard Prologue
+- Source Code File with Excessive Number of Lines of Code
+- Spam
+- Spear Phishing
+- Spoof Open-Source Software Metadata
+- Spoof Version Control System Commit Metadata
+- Spoofing of UDDI/ebXML Messages
+- Spyware
+- SQL Injection through SOAP Parameter Tampering
+- SQL Injection: Hibernate
+- SSL Flood
+- StarJacking
+- Static Member Data Element outside of a Singleton Class Element
+- Storage of File With Sensitive Data Under FTP Root
+- Storage of File with Sensitive Data Under Web Root
+- Storage of Sensitive Data in a Mechanism without Access Control
+- Stored XSS
+- String Format Overflow in syslog()
+- Struts: Duplicate Validation Forms
+- Struts: Form Bean Does Not Extend Validation Class
+- Struts: Form Field Without Validator
+- Struts: Incomplete validate() Method Definition
+- Struts: Non-private Field in ActionForm Class
+- Struts: Plug-in Framework not in Use
+- Struts: Unused Validation Form
+- Struts: Unvalidated Action Form
+- Struts: Validator Turned Off
+- Struts: Validator Without Form Field
+- Subdomain Takeover
+- Subvert Code-signing Facilities
+- Subverting Environment Variable Values
+- Suspicious Comment
+- Sustained Client Engagement
+- Symbolic Name not Mapping to Correct Object
+- Symlink Attack
+- Synchronous Access of Remote Resource without Timeout
+- System Build Data Maliciously Altered
+- System Footprinting
+- System Location Discovery
+- System-on-Chip (SoC) Using Components without Unique, Immutable Identifiers
+- Tapjacking
+- Target Influence via Eye Cues
+- Target Influence via Framing
+- Target Influence via The Human Buffer Overflow
+- Target Programs with Elevated Privileges
+- Targeted Malware
+- Task Impersonation
+- TCP 'RST' Flag Checksum Probe
+- TCP (ISN) Counter Rate Probe
+- TCP (ISN) Greatest Common Divisor Probe
+- TCP (ISN) Sequence Predictability Probe
+- TCP ACK Ping
+- TCP ACK Scan
+- TCP Congestion Control Flag (ECN) Probe
+- TCP Connect Scan
+- TCP FIN Scan
+- TCP Flood
+- TCP Fragmentation
+- TCP Initial Window Size Probe
+- TCP Null Scan
+- TCP Options Probe
+- TCP RPC Scan
+- TCP RST Injection
+- TCP Sequence Number Probe
+- TCP SYN Ping
+- TCP SYN Scan
+- TCP Timestamp Probe
+- TCP Window Scan
+- TCP Xmas Scan
+- Terrestrial Jamming
+- The UI Performs the Wrong Action
+- Timestamp Request
+- Token Impersonation
+- Traceroute Route Enumeration
+- Traffic Injection
+- Transaction or Event Tampering via Application API Manipulation
+- Transmission of Private Resources into a New Sphere ('Resource Leak')
+- Transparent Proxy Abuse
+- Trapdoor
+- Trojan Horse
+- Truncation of Security-relevant Information
+- Trust Boundary Violation
+- Trust of System Event Data
+- Trusting HTTP Permission Methods on the Server Side
+- Try All Common Switches
+- Try Common or Default Usernames and Passwords
+- TypoSquatting
+- UDP Flood
+- UDP Fragmentation
+- UDP Ping
+- UDP Scan
+- UI Discrepancy for Security Feature
+- Unauthorized Error Injection Can Degrade Hardware Redundancy
+- Unauthorized Use of Device Resources
+- Uncaught Exception
+- Uncaught Exception in Servlet 
+- Unchecked Input for Loop Condition
+- Unchecked Return Value
+- Unchecked Return Value to NULL Pointer Dereference
+- Unconditional Control Flow Transfer outside of Switch Block
+- Undefined Behavior for Input to API
+- Unexpected Sign Extension
+- Unexpected Status Code or Return Value
+- Unimplemented or Unsupported Feature in UI
+- Uninitialized Value on Reset for Registers Holding Security Settings
+- Unintended Proxy or Intermediary ('Confused Deputy')
+- Unintended Reentrant Invocation of Non-reentrant Code Via Nested Calls
+- UNIX Hard Link
+- UNIX Symbolic Link (Symlink) Following
+- Unlock of a Resource that is not Locked
+- Unnecessary Complexity in Protection Mechanism (Not Using 'Economy of Mechanism')
+- Unparsed Raw Web Content Delivery
+- Unprotected Alternate Channel
+- Unprotected Confidential Information on Device is Accessible by OSAT Vendors
+- Unprotected Primary Channel
+- Unprotected Windows Messaging Channel ('Shatter')
+- Unquoted Search Path or Element
+- Unrestricted Externally Accessible Lock
+- Unsafe ActiveX Control Marked Safe For Scripting
+- Unsigned to Signed Conversion Error
+- Unsynchronized Access to Shared Data in a Multithreaded Context
+- Untrusted Pointer Dereference
+- Unverified Ownership
+- Upload a Web Shell to a Web Server
+- URL Encoding
+- USB Memory Attacks
+- Use of a Cryptographic Primitive with a Risky Implementation
+- Use of a Non-reentrant Function in a Concurrent Context
+- Use of a One-Way Hash with a Predictable Salt
+- Use of a One-Way Hash without a Salt
+- Use of Blocking Code in Single-threaded, Non-blocking Context
+- Use of Captured Hashes (Pass The Hash)
+- Use of Captured Tickets (Pass The Ticket)
+- Use of Client-Side Authentication
+- Use of Default Cryptographic Key
+- Use of Default Password
+- Use of Expired File Descriptor
+- Use of Externally-Controlled Input to Select Classes or Code ('Unsafe Reflection')
+- Use of Function with Inconsistent Implementations
+- Use of GET Request Method With Sensitive Query Strings
+- Use of getlogin() in Multithreaded Application
+- Use of Hard-coded, Security-relevant Constants
+- Use of Implicit Intent for Sensitive Communication
+- Use of Incorrect Byte Ordering
+- Use of Incorrect Operator
+- Use of Inner Class Containing Sensitive Data
+- Use of Invariant Value in Dynamically Changing Context
+- Use of Known Domain Credentials
+- Use of Known Kerberos Credentials
+- Use of Known Windows Credentials
+- Use of Less Trusted Source
+- Use of Low-Level Functionality
+- Use of Multiple Resources with Duplicate Identifier
+- Use of Non-Canonical URL Paths for Authorization Decisions
+- Use of NullPointerException Catch to Detect NULL Pointer Dereference
+- Use of Object without Invoking Destructor Method
+- Use of Obsolete Function
+- Use of Out-of-range Pointer Offset
+- Use of Password Hash Instead of Password for Authentication
+- Use of Password Hash With Insufficient Computational Effort
+- Use of Password System for Primary Authentication
+- Use of Path Manipulation Function without Maximum-sized Buffer
+- Use of Persistent Cookies Containing Sensitive Information
+- Use of Platform-Dependent Third Party Components
+- Use of Pointer Subtraction to Determine Size
+- Use of Potentially Dangerous Function
+- Use of Predictable Algorithm in Random Number Generator
+- Use of Prohibited Code
+- Use of Redundant Code
+- Use of RSA Algorithm without OAEP
+- Use of Same Invokable Control Element in Multiple Architectural Layers
+- Use of Same Variable for Multiple Purposes
+- Use of Single-factor Authentication
+- Use of Singleton Pattern Without Synchronization in a Multithreaded Context
+- Use of Singular Authentication Artifact for Multiple User Sessions
+- Use of sizeof() on a Pointer Type
+- Use of umask() with chmod-style Argument
+- Use of Uninitialized Resource
+- Use of Uninitialized Variable
+- Use of Unmaintained Third Party Components
+- Use of Weak Credentials
+- Use of Web Browser Cache Containing Sensitive Information
+- Use of Web Link to Untrusted Target with window.opener Access
+- Use of Wrong Operator in String Comparison
+- User-Controlled Filename
+- Using a Snap Gun Lock to Force a Lock
+- Using Alternative IP Address Encodings
+- Using Escaped Slashes in Alternate Encoding
+- Using Leading 'Ghost' Character Sequences to Bypass Input Filters
+- Using Malicious Files
+- Using Meta-characters in E-mail Headers to Inject Malicious Payloads
+- Using Referer Field for Authentication
+- Using Slashes and URL Encoding Combined to Bypass Validation Logic
+- Using Slashes in Alternate Encoding
+- Using Unicode Encoding to Bypass Validation Logic
+- Using Unpublished Interfaces
+- Using UTF-8 Encoding to Bypass Validation Logic
+- Utilizing REST's Trust in the System Resource to Obtain Sensitive Data
+- Variable Extraction Error
+- Voice Phishing
+- Weak Authentication
+- Weakening of Cellular Encryption
+- Web Application Fingerprinting
+- Web Logs Tampering
+- Web Services API Signature Forgery Leveraging Hash Function Extension Weakness
+- Web Services Protocol Manipulation
+- WebView Exposure
+- WebView Injection
+- White Box Reverse Engineering
+- Wi-Fi Jamming
+- WiFi MAC Address Tracking
+- WiFi SSID Tracking
+- Windows ::DATA Alternate Data Stream
+- Windows Admin Shares with Stolen Credentials
+- Windows Hard Link
+- Windows Shortcut Following (.LNK)
+- WSDL Scanning
+- XML Flood
+- XML Ping of the Death
+- XML Routing Detour Attacks
+- XML Schema Poisoning
+- XPath Injection
+- XQuery Injection
+- XSS - Reflected
+- XSS Targeting Error Pages
+- XSS Targeting HTML Attributes
+- XSS Targeting Non-Script Elements
+- XSS Targeting URI Placeholders
+- XSS Through HTTP Headers
+- XSS Through HTTP Query Strings
+- XSS Using Alternate Syntax
+- XSS Using Doubled Characters
+- XSS Using Invalid Characters
+- XSS Using MIME Type Mismatch

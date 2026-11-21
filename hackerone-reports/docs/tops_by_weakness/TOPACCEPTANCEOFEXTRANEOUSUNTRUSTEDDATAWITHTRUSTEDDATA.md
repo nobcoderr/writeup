@@ -1,0 +1,5 @@
+Top Acceptance of Extraneous Untrusted Data With Trusted Data reports from HackerOne:
+
+1. [HSTS accepted from HTTP origin behind HTTPS proxy](https://hackerone.com/reports/3609505) to curl - 25 upvotes, $0
+2. [curl reuses an HTTPS connection when a response is already buffered in the TLS stack](https://hackerone.com/reports/4128703) to curl - 5 upvotes, $0
+3. [POP3: data after the end-of-body terminator is written into the retrieved message](https://hackerone.com/reports/4132132) to curl - 4 upvotes, $0

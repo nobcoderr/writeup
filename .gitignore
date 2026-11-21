@@ -1,0 +1,6 @@
+.idea/
+venv/
+*.swp
+hackerone-reports/cache/
+hackerone-bug-bounty-reports/logs/
+error-*.png

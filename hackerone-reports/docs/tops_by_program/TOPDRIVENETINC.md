@@ -1,0 +1,13 @@
+Top reports from DRIVE.NET, Inc. program at HackerOne:
+
+1. [[www.drive2.ru] There is no rate limit for comments endpoints.](https://hackerone.com/reports/835200) to DRIVE.NET, Inc. - 54 upvotes, $0
+2. [Same site Scripting ](https://hackerone.com/reports/772039) to DRIVE.NET, Inc. - 49 upvotes, $0
+3. [[www.drive2.ru] Insufficient Security Configurability - The user can using the same password as your current ID.](https://hackerone.com/reports/850938) to DRIVE.NET, Inc. - 45 upvotes, $0
+4. [Хранимый XSS в Business-аккаунте, на странице компании](https://hackerone.com/reports/771882) to DRIVE.NET, Inc. - 36 upvotes, $0
+5. [[www.drive2.ru] Insufficient Security Configurability - The user's can set an existing password as a new password.](https://hackerone.com/reports/835302) to DRIVE.NET, Inc. - 30 upvotes, $0
+6. [[www.drive2.ru] Insufficient Security Configurability - Notification email is not sent when email is changed.](https://hackerone.com/reports/835647) to DRIVE.NET, Inc. - 27 upvotes, $0
+7. [[www.drive2.ru] CSRF through FCTX token bypass](https://hackerone.com/reports/835142) to DRIVE.NET, Inc. - 26 upvotes, $0
+8. [Testing for arbitrary HTTP methods](https://hackerone.com/reports/775560) to DRIVE.NET, Inc. - 16 upvotes, $0
+9. [[www.drive2.ru] Insufficient Security Configurability - Email notification is not being sent while changing passwords](https://hackerone.com/reports/835138) to DRIVE.NET, Inc. - 16 upvotes, $0
+10. [[www.drive2.ru]  Insufficient Security Configurability - Notification message not sent when account is deleted](https://hackerone.com/reports/1006691) to DRIVE.NET, Inc. - 16 upvotes, $0
+11. [[www.drive2.ru] Insufficient Session Expiration - Previously issued email change tokens do not expire upon issuing a new email change token](https://hackerone.com/reports/1006677) to DRIVE.NET, Inc. - 11 upvotes, $0

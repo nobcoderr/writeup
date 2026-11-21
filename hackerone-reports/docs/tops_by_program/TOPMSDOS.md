@@ -1,0 +1,11 @@
+Top reports from MS-DOS program at HackerOne:
+
+1. [Permanent Denial of Service ](https://hackerone.com/reports/5534) to MS-DOS - 19 upvotes, $0
+2. [Please contact me @sehacure otherwise i am going to disclose in Full disclosure mailing list :p ](https://hackerone.com/reports/5437) to MS-DOS - 10 upvotes, $0
+3. [Hack administrator password even if you are a guest](https://hackerone.com/reports/5441) to MS-DOS - 7 upvotes, $0
+4. [Bug in Source Code Files(v1.1)](https://hackerone.com/reports/5466) to MS-DOS - 6 upvotes, $0
+5. [CRITICAL BUG!](https://hackerone.com/reports/5426) to MS-DOS - 5 upvotes, $0
+6. [Arbitrary command execution in MS-DOS](https://hackerone.com/reports/5499) to MS-DOS - 5 upvotes, $0
+7. [एमएस  डॉस प्राणघाती है।  ](https://hackerone.com/reports/5596) to MS-DOS - 5 upvotes, $0
+8. [Injecting Distrust and Disbelief in Addicted Gamers ](https://hackerone.com/reports/5559) to MS-DOS - 3 upvotes, $0
+9. [History Disclosure of MS-Dos](https://hackerone.com/reports/5549) to MS-DOS - 3 upvotes, $0

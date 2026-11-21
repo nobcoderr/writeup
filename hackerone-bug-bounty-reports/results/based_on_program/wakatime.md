@@ -1,0 +1,68 @@
+## Reports in WakaTime program:
+
+| S.No | Title | Bounty |
+| ---- | ----- | ------ |
+| 1 | [IDOR to view order information of users and personal information](https://hackerone.com/reports/2524562) | $0 |
+| 2 | [Unauthorized Disclosure of Private Emails via WakaTime Private Leaderboards](https://hackerone.com/reports/3279508) | $0 |
+| 3 | [Leaked credentials ( emails and passwords , etc...)](https://hackerone.com/reports/3091909) | $0 |
+| 4 | [Login Information and Credentials Have Been Leaked on wakatime.com](https://hackerone.com/reports/3090641) | $0 |
+| 5 | [User Email Disclosure via ID-Based Invitation](https://hackerone.com/reports/3003716) | $0 |
+| 6 | [user api key leaked](https://hackerone.com/reports/3098717) | $0 |
+| 7 | [Broken Access Control Exposes Email Verification Status and Privacy Settings via API Endpoint](https://hackerone.com/reports/3114132) | $0 |
+| 8 | [Double Clickjacking Attack on WakaTime OAuth Authorization Flow at https://wakatime.com/oauth/authorize](https://hackerone.com/reports/3287060) | $0 |
+| 9 | [Session Replay Attack Allows Authentication Bypass via Captured Login Responses Allowing Bypass of 429 Too many attempts for Multiple Failed Logins](https://hackerone.com/reports/3120790) | $0 |
+| 10 | [Not a Vuln: Race Condition Allows Creation of Multiple Organizations with the Same Name](https://hackerone.com/reports/3248712) | $0 |
+| 11 | [previous token seems to work even though it does not verify email](https://hackerone.com/reports/263672) | $0 |
+| 12 | [JSON CSRF on POST Heartbeats API](https://hackerone.com/reports/245346) | $0 |
+| 13 | [Invalid](https://hackerone.com/reports/3304704) | $0 |
+| 14 | [Add arbitrary content to Password Reset Email](https://hackerone.com/reports/244677) | $0 |
+| 15 | [IDOR create accounts and verify them with original account email](https://hackerone.com/reports/244636) | $0 |
+| 16 | [Email Spoofing Via /api/v1/users/reset_password](https://hackerone.com/reports/244555) | $0 |
+| 17 | [Password Policy Issue](https://hackerone.com/reports/246042) | $0 |
+| 18 | [[Privilege Escalation] Authenticated users can manipulate others fullname without their knowledge](https://hackerone.com/reports/244567) | $0 |
+| 19 | [Vulnerability Name: Host Header Injection Redirect](https://hackerone.com/reports/601287) | $0 |
+| 20 | [by pass rate limit exceed ](https://hackerone.com/reports/246838) | $0 |
+| 21 | [Password reset links should expire after being used, instead of at specific time](https://hackerone.com/reports/244612) | $0 |
+| 22 | [[Privilege Escalation] Authenticated users can manipulate others fullname without their knowledge [Team Vector]](https://hackerone.com/reports/246419) | $0 |
+| 23 | [Using an outdated version of OpenSSH on db01.wakatime.com](https://hackerone.com/reports/246780) | $0 |
+| 24 | [Missing SPF Flags](https://hackerone.com/reports/244432) | $0 |
+| 25 | [Two email addresses can access the same account](https://hackerone.com/reports/245305) | $0 |
+| 26 | [No rate limit when creating new goals [https://wakatime.com/goals]](https://hackerone.com/reports/244813) | $0 |
+| 27 | [Leaking password reset token via referrer from external Twitter share button](https://hackerone.com/reports/244434) | $0 |
+| 28 | [Mailgun misconfiguration ](https://hackerone.com/reports/244474) | $0 |
+| 29 | [Lack of Password Confirmation When Changing Email](https://hackerone.com/reports/245334) | $0 |
+| 30 | [No redirect uri for Twitter Oath resulting in token leak](https://hackerone.com/reports/244958) | $0 |
+| 31 | [Users with member privilege are able to see emails and membership information of other users](https://hackerone.com/reports/244781) | $0 |
+| 32 | [[wakatime.com] HTML Injection github-btn.html](https://hackerone.com/reports/248588) | $0 |
+| 33 | [No rate limiting for confirmation email, can spam anyone with confirmation emails](https://hackerone.com/reports/245147) | $0 |
+| 34 | [Clickjacking on authorized page https://wakatime.com/share/embed](https://hackerone.com/reports/244967) | $0 |
+| 35 | [Bypassing Access control, changing owner's name in a private leaderboard](https://hackerone.com/reports/245340) | $0 |
+| 36 | [Impersonation of Wakatime user using Invitation functionality.](https://hackerone.com/reports/257119) | $0 |
+| 37 | [Session Not Expired On Logout](https://hackerone.com/reports/244875) | $0 |
+| 38 | [Forgot password link doesn't expire after used, only after some hours](https://hackerone.com/reports/244642) | $0 |
+| 39 | [No notificatoin sent on email after account deletion.](https://hackerone.com/reports/244971) | $0 |
+| 40 | [Missing filteration of meta characters in all full name field on wakatime.com](https://hackerone.com/reports/245236) | $0 |
+| 41 | [Blocking users to sign up on the site](https://hackerone.com/reports/245538) | $0 |
+| 42 | [Password token validation in https://wakatime.com/](https://hackerone.com/reports/244614) | $0 |
+| 43 | [Broken Authentication and session management OWASP A2](https://hackerone.com/reports/798812) | $0 |
+| 44 | [Login page password - guessing attack](https://hackerone.com/reports/244909) | $0 |
+| 45 | [UI Redressing on Embedded Charts](https://hackerone.com/reports/244697) | $0 |
+| 46 | [No rate limit on creating private leaderboards.](https://hackerone.com/reports/245527) | $0 |
+| 47 | [https://wakatime.com/ website CSP "script-src" includes "unsafe-inline"](https://hackerone.com/reports/244766) | $0 |
+| 48 | [Private leaderboard owner email disclosure when sending invites](https://hackerone.com/reports/969988) | $0 |
+| 49 | [Missing Account Deletion Notification](https://hackerone.com/reports/245311) | $0 |
+| 50 | [Session not expired on logout](https://hackerone.com/reports/245124) | $0 |
+| 51 | [Session Duplication due to Broken Access Control](https://hackerone.com/reports/247225) | $0 |
+| 52 | [Unsafe Inline and Eval CSP Usage](https://hackerone.com/reports/244724) | $0 |
+| 53 | [password token validation](https://hackerone.com/reports/275242) | $0 |
+| 54 | [Can link to websites from profile](https://hackerone.com/reports/275245) | $0 |
+| 55 | [SSH backdated version open port](https://hackerone.com/reports/255627) | $0 |
+| 56 | [Sensitive Cookie Without 'HttpOnly' Flag](https://hackerone.com/reports/245514) | $0 |
+| 57 | [Running 2 accounts with a single email](https://hackerone.com/reports/246302) | $0 |
+| 58 | [Failure to check password history](https://hackerone.com/reports/255034) | $0 |
+| 59 | [Validation of Password reset tokens](https://hackerone.com/reports/273560) | $0 |
+| 60 | [[invalid][false-positive] csrftoken on profile page](https://hackerone.com/reports/675398) | $0 |
+| 61 | [Rate Limit too lenient for endpoint sending emails](https://hackerone.com/reports/658089) | $0 |
+| 62 | [Waketime Payment Gateway Vulnerability](https://hackerone.com/reports/2097517) | $0 |
+| 63 | [HTML - injection ](https://hackerone.com/reports/245233) | $0 |
+| 64 | [Logout CSRF](https://hackerone.com/reports/244778) | $0 |

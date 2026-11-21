@@ -1,0 +1,70 @@
+Top reports from Informatica program at HackerOne:
+
+1. [XXE through injection of a payload in the XMP metadata of a JPEG file](https://hackerone.com/reports/836877) to Informatica - 138 upvotes, $0
+2. [No rate limiting on form[register]](https://hackerone.com/reports/2583500) to Informatica - 109 upvotes, $0
+3. [Blind SQL injection at tsftp.informatica.com](https://hackerone.com/reports/1034625) to Informatica - 68 upvotes, $0
+4. [[careers.informatica.com] Reflected Cross Site Scripting to XSS Shell Possible](https://hackerone.com/reports/147196) to Informatica - 50 upvotes, $0
+5. [[rev-app.informatica.com] - XXE](https://hackerone.com/reports/105434) to Informatica - 45 upvotes, $0
+6. [[ipm.informatica.com] Sql injection Oracle ](https://hackerone.com/reports/178057) to Informatica - 28 upvotes, $0
+7. [Cross-site Scripting (XSS) - DOM - iqcard.informatica.com](https://hackerone.com/reports/1004833) to Informatica - 27 upvotes, $0
+8. [..; bypass leading to  tomcat scripts [Unauthenticated]](https://hackerone.com/reports/1004007) to Informatica - 27 upvotes, $0
+9. [[app.informaticaondemand.com] XXE](https://hackerone.com/reports/105753) to Informatica - 25 upvotes, $0
+10. [Public Github Repo Leaking Internal Credentials Leading To DiscoveryIQ Docker Access](https://hackerone.com/reports/631348) to Informatica - 24 upvotes, $0
+11. [[kb.informatica.com] Dom Based xss](https://hackerone.com/reports/156166) to Informatica - 23 upvotes, $0
+12. [ XXE in upload file feature](https://hackerone.com/reports/105787) to Informatica - 22 upvotes, $0
+13. [Html injection on ██████.informatica.com via search.html?q=1](https://hackerone.com/reports/1081656) to Informatica - 20 upvotes, $0
+14. [[doc.rt.informaticacloud.com] Arbitrary File Reading via Double URL Encode](https://hackerone.com/reports/232371) to Informatica - 20 upvotes, $0
+15. [Store XSS on Informatica University via transcript (informatica.csod.com)](https://hackerone.com/reports/219509) to Informatica - 17 upvotes, $0
+16. [Reflected XSS ](https://hackerone.com/reports/267206) to Informatica - 17 upvotes, $0
+17. [Improper Sanitization leads to XSS Fire on admin panel](https://hackerone.com/reports/1011888) to Informatica - 15 upvotes, $0
+18. [[oneclickdrsfdc-test.informatica.com] Tomcat Example Scripts Exposed Unauthenticated](https://hackerone.com/reports/147161) to Informatica - 14 upvotes, $0
+19. [[marketplace.informatica.com] - XXE](https://hackerone.com/reports/106797) to Informatica - 14 upvotes, $0
+20. [RXSS in http://procurement-businesscatalog.informatica.com](https://hackerone.com/reports/831803) to Informatica - 13 upvotes, $0
+21. [[marketplace.informatica.com] - XXE](https://hackerone.com/reports/106802) to Informatica - 12 upvotes, $0
+22. [[rev-app.informatica.com] - XXE via SAML](https://hackerone.com/reports/106865) to Informatica - 12 upvotes, $0
+23. [[marketplace.informatica.com] -  Template Injection](https://hackerone.com/reports/299241) to Informatica - 12 upvotes, $0
+24. [Cross site scripting  ](https://hackerone.com/reports/1095797) to Informatica - 12 upvotes, $0
+25. [CVE-2021-40870 in [███]](https://hackerone.com/reports/1360593) to Informatica - 12 upvotes, $0
+26. [[informatica.com] Blind SQL Injection](https://hackerone.com/reports/117073) to Informatica - 11 upvotes, $0
+27. [[marketplace.informatica.com] User email disclosure](https://hackerone.com/reports/230608) to Informatica - 11 upvotes, $0
+28. [loing in to marketplace panel on enablement.informatica.com](https://hackerone.com/reports/1081750) to Informatica - 11 upvotes, $0
+29. [[afocusp.informatica.com] Sql injection  afocusp.informatica.com:37777](https://hackerone.com/reports/178632) to Informatica - 10 upvotes, $0
+30. [[uk.informatica.com] XSS on uk.informatica..com](https://hackerone.com/reports/143323) to Informatica - 10 upvotes, $0
+31. [[ipm.informatica.com]- Broken Authentication](https://hackerone.com/reports/201152) to Informatica - 10 upvotes, $0
+32. [[careers.informatica.com] Cross Site Script Vulnerability on informatica](https://hackerone.com/reports/42537) to Informatica - 10 upvotes, $0
+33. [[kb.informatica.com] DOM based XSS in the bindBreadCrumb function](https://hackerone.com/reports/189834) to Informatica - 10 upvotes, $0
+34. [[alpha.informatica.com] Expensive DOMXSS](https://hackerone.com/reports/158749) to Informatica - 10 upvotes, $0
+35. [[informatica.com]- Cross Site scripting ](https://hackerone.com/reports/204237) to Informatica - 10 upvotes, $0
+36. [[marketplace.informatica.com] - Sensitive Data Exposure ](https://hackerone.com/reports/270695) to Informatica - 10 upvotes, $0
+37. [[product360.informatica.com] Unauthenticated Apache Tomcat 8 Installation](https://hackerone.com/reports/146436) to Informatica - 9 upvotes, $0
+38. [Stored XSS via Discussion Title and Send as Email attribute in [marketplace.informatica.com]](https://hackerone.com/reports/203912) to Informatica - 9 upvotes, $0
+39. [[http://www.informatica.com]- info disclosure](https://hackerone.com/reports/311058) to Informatica - 9 upvotes, $0
+40. [SSRF on infawiki.informatica.com and infawikitest.informatica.com](https://hackerone.com/reports/327480) to Informatica - 9 upvotes, $0
+41. [F5 BIG-IP Cookie  potentially reveal BigIP pool name, backend's IP address and port, routed domain.](https://hackerone.com/reports/1211094) to Informatica - 9 upvotes, $0
+42. [[marketplace.informatica.com] Persistent XSS through document title](https://hackerone.com/reports/181816) to Informatica - 8 upvotes, $0
+43. [[parc.informatica.com] Reflected Cross Site Scripting and Open Redirect](https://hackerone.com/reports/178278) to Informatica - 8 upvotes, $0
+44. [Cisco RCE](https://hackerone.com/reports/411270) to Informatica - 8 upvotes, $0
+45. [[kb.informatica.com] Stored XSS](https://hackerone.com/reports/170369) to Informatica - 7 upvotes, $0
+46. [[network.informatica.com] The login form XSS via the referer value](https://hackerone.com/reports/190016) to Informatica - 7 upvotes, $0
+47. [XXE at Informatica sub-domain](https://hackerone.com/reports/150520) to Informatica - 7 upvotes, $0
+48. [accounts.informatica.com - RCE due to exposed Groovy console](https://hackerone.com/reports/672243) to Informatica - 7 upvotes, $0
+49. [[now.informatica.com] Reflective Xss](https://hackerone.com/reports/81191) to Informatica - 6 upvotes, $0
+50. [Unrestricted file upload - cloudacademy.informatica.com](https://hackerone.com/reports/253202) to Informatica - 6 upvotes, $0
+51. [[marketplace.informatica.com] - Stored XSS](https://hackerone.com/reports/277259) to Informatica - 6 upvotes, $0
+52. [[marketplace.informatica.com]-Reflected XSS ](https://hackerone.com/reports/266801) to Informatica - 6 upvotes, $0
+53. [[doc.rt.informaticacloud.com] Reflected XSS via Stack Strace](https://hackerone.com/reports/232320) to Informatica - 6 upvotes, $0
+54. [jira discloser information ](https://hackerone.com/reports/994612) to Informatica - 6 upvotes, $0
+55. [[marketplace.informatica.com] Open Redirect](https://hackerone.com/reports/123625) to Informatica - 5 upvotes, $0
+56. [[now.informatica.com] Reflective XSS](https://hackerone.com/reports/106678) to Informatica - 5 upvotes, $0
+57. [[careers.informatica.com] XSS on "isJTN"](https://hackerone.com/reports/190020) to Informatica - 5 upvotes, $0
+58. [[marketplace.informatica.com]- Stored XSS on Image title and Edit Property](https://hackerone.com/reports/202951) to Informatica - 5 upvotes, $0
+59. [[marketplace.informatica.com] Search XSS](https://hackerone.com/reports/200034) to Informatica - 5 upvotes, $0
+60. [[informatica.com]- Information Disclosure ](https://hackerone.com/reports/204239) to Informatica - 5 upvotes, $0
+61. [[kb.informatica.com] Unauthenticated emails and HTML injection in email messages](https://hackerone.com/reports/139402) to Informatica - 4 upvotes, $0
+62. [[marketplace.informatica.com] Profile stored XSS](https://hackerone.com/reports/190217) to Informatica - 4 upvotes, $0
+63. [[https://life.informatica.com] - information disclose ](https://hackerone.com/reports/312292) to Informatica - 4 upvotes, $0
+64. [[community.informatica.com] - CSRF in Private Messages allows to move user's messages to Trash](https://hackerone.com/reports/45050) to Informatica - 3 upvotes, $0
+65. [[wave.informatica.com]- Subdomain missconfiguration](https://hackerone.com/reports/205034) to Informatica - 3 upvotes, $0
+66. [Reflected Cross-Site Scripting/HTML Injection](https://hackerone.com/reports/1379158) to Informatica - 3 upvotes, $0
+67. [Missing SPF for informatica.com](https://hackerone.com/reports/39250) to Informatica - 1 upvotes, $0
+68. [XSS in Search Communities Function](https://hackerone.com/reports/47235) to Informatica - 1 upvotes, $0

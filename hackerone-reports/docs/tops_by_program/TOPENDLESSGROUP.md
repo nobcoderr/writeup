@@ -1,0 +1,9 @@
+Top reports from Endless Group program at HackerOne:
+
+1. [Weak Password Policy via DirectAdmin Password Change Functionality](https://hackerone.com/reports/791381) to Endless Group - 33 upvotes, $0
+2. [Modify Host Header which is sent to email](https://hackerone.com/reports/791293) to Endless Group - 30 upvotes, $0
+3. [CVE-2020-14179 on https://jira.theendlessweb.com/secure/QueryComponent!Default.jspa leads to information disclosure](https://hackerone.com/reports/1003980) to Endless Group - 25 upvotes, $0
+4. [Enumeration of username on password reset page](https://hackerone.com/reports/806151) to Endless Group - 13 upvotes, $0
+5. [XSS on https://fax.pbx.itsendless.org/ (CVE-2017-18024)](https://hackerone.com/reports/963798) to Endless Group - 12 upvotes, $0
+6. [CVE-2017-8779 exploit on open rpcbind port could lead to remote DoS](https://hackerone.com/reports/791893) to Endless Group - 11 upvotes, $0
+7. [Lets Encrypt Certificates affected by CAA Rechecking Incident](https://hackerone.com/reports/813279) to Endless Group - 1 upvotes, $0

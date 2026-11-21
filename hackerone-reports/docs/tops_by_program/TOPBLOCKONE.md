@@ -1,0 +1,6 @@
+Top reports from Block.one program at HackerOne:
+
+1. [[FG-VD-18-100] Heap Buffer Overflow Vulnerability in EOS's forked repository of Binaryen Library and also in latest Binaryen Library Parent Repository](https://hackerone.com/reports/363195) to Block.one - 25 upvotes, $2500
+2. [[FG-VD-18-101] Buffer Overflow Vulnerability in EOS's WAVM Library and also in latest WAVM Library Parent Repository](https://hackerone.com/reports/363209) to Block.one - 13 upvotes, $2500
+3. [[FG-VD-18-125] Buffer Overflow Vulnerability in Latest EOS's EOSIO.WASMSDK Repository](https://hackerone.com/reports/391097) to Block.one - 10 upvotes, $250
+4. [[FG-VD-18-126] Buffer Overflow Vulnerability in Latest EOS's EOSIO.WASMSDK Repository II](https://hackerone.com/reports/391099) to Block.one - 10 upvotes, $250
